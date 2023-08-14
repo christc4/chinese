@@ -23,7 +23,7 @@
 kàn dào tā shāng xīn de yàng zǐ wǒ rěn bù zhù xiǎng ān wèi tā
 
 
-## 算不算 - suan4bu4suan4
+## 算不算 - suàn bù suàn
 
 我会假笑，还会说谎，这算不算特长?
 
