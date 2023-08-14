@@ -76,8 +76,8 @@ tā gǎn dào de shì cóng wèi yǒu guò de chōng shí, máng lù, kuài huó
 1. 你们之间的联系这么少，看起来总不像一家人\
 nǐmen zhī jiān de liánxì zhème shǎo, kàn qǐlái zǒng bù xiàng shì yī jiā rén
 
-- 之间 zhī jiān
-- 联系 lián xì
+    - 之间 zhī jiān
+    - 联系 lián xì
 
 2. 这么晚了，总不会出了什么事吧？\
 zhème wǎn le, zǒng bù huì chū le shénme shì ba?
