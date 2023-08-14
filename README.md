@@ -21,12 +21,8 @@
 
 ## 伤心 - shang1 xin1
 
-1. 看到她伤心的样子我忍不住想安慰她。
-2. kan4 dao4 ni3 shang1xin1 de yang4zi wo3 ren3 bu4 zhu4 xiang3 an1wei4 ni3
-
-
-
-
+1. 看到她伤心的样子我忍不住想安慰她\
+kàn dào tā shāng xīn de yàng zǐ wǒ rěn bù zhù xiǎng ān wèi tā
 
 
 项目 - xiang4mu4
