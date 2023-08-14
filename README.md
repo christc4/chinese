@@ -1,6 +1,6 @@
 # Vocabulary
 
-## 升职 - sheng1zhi2
+## 升职 - shēng zhí
 
 1. 她满面春风的宣布了自己升职的消息。
 
@@ -17,7 +17,7 @@
 3. 升职的事情让他高兴得不得了\
    shēngzhí de shìqing ràng tā gāoxìng de bùdéliǎo
 
-## 伤心 - shang1 xin1
+## 伤心 - shāng xīn
 
 1. 看到她伤心的样子我忍不住想安慰她\
 kàn dào tā shāng xīn de yàng zǐ wǒ rěn bù zhù xiǎng ān wèi tā
