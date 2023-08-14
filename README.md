@@ -5,14 +5,14 @@
 1. 她满面春风的宣布了自己升职的消息。
 
     - 满面春风 - mǎn miàn chūn fēng - beaming
-    - 宣布 - xuan1bu4
-    - 消息 - xiao1xi - news
+    - 宣布 - xuān bù - announce
+    - 消息 - xiāo xi - news
 
 2.  成天磨嘴不干活，还想升职
 
-    - 成天 - cheng2tian4
-    - 磨嘴 - mo2zui3
-    - 干活 - gan4huo
+    - 成天 - chéng tiān - (coll.) all day long
+    - 磨嘴 - mó zuǐ - talk incessantly
+    - 干活 - gàn huó - employment
 
 3. 升职的事情让他高兴得不得了\
    shēngzhí de shìqing ràng tā gāoxìng de bùdéliǎo
