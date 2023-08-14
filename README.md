@@ -23,16 +23,7 @@
 kàn dào tā shāng xīn de yàng zǐ wǒ rěn bù zhù xiǎng ān wèi tā
 
 
-项目 - xiang4mu4
-
-
-12) 在本周末，还不能完成这个项目，我心里七上八下的。
-12)
-17) 如今时间就是金钱,如果你觉得这个项目值得干,就操刀必割,赶快上马。
-1) ru2jin1 shi2jian1 jiu4shi4 jin1qian2 ru2guo3 ni3 jue2de2 zhe4ge xiang4mu4 zhi2de2 gan4, jiu4 cao1 dao1 bi4 ge1 gan3kuai4 shang4ma3
-
-
-算不算 - suan4bu4suan4
+## 算不算 - suan4bu4suan4
 
 我会假笑，还会说谎，这算不算特长?
 
@@ -52,6 +43,14 @@ Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
 ## 闲聊 xian2liao2
 
 - 有时我们在一起闲聊
+
+## 项目 - xiang4mu4
+
+
+12) 在本周末，还不能完成这个项目，我心里七上八下的。
+12)
+17) 如今时间就是金钱,如果你觉得这个项目值得干,就操刀必割,赶快上马。
+1) ru2jin1 shi2jian1 jiu4shi4 jin1qian2 ru2guo3 ni3 jue2de2 zhe4ge xiang4mu4 zhi2de2 gan4, jiu4 cao1 dao1 bi4 ge1 gan3kuai4 shang4ma3
 
 ## 一望无际 yī wàng wú jì
 
