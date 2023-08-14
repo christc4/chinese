@@ -63,4 +63,5 @@ cǎo yuán xiàng sì zhōu shēn zhǎn, yī wàng wú jì
 
 ## 有趣
 
-我感到的是从未有过的充实、忙碌、快活、有趣。
+- 他感到的是从未有过的充实、忙碌、快活、有趣\
+tā gǎn dào de shì cóng wèi yǒu guò de chōng shí, máng lù, kuài huó, yǒu qù
