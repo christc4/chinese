@@ -60,3 +60,7 @@ Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
 
 - 草原向四周伸展，一望无际\
 cǎo yuán xiàng sì zhōu shēn zhǎn, yī wàng wú jì
+
+## 有趣
+
+我感到的是从未有过的充实、忙碌、快活、有趣。
