@@ -42,22 +42,7 @@
 
 15、我只想给你给你宠爱，这算不算不算爱，我还还还搞不明白。TFBOYS
 
-## 一望无际 yī wàng wú jì
-
-- 草原向四周伸展，一望无际\
-cǎo yuán xiàng sì zhōu shēn zhǎn, yī wàng wú jì
-
-
-
-
-## 闲聊 xian2liao2
-
-- 有时我们在一起闲聊
-
-
 ## 感激不尽 gǎn jī bù jìn
-
-
 
 ## 过往 guòwǎng
 
@@ -66,3 +51,12 @@ Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
 
 - 敲响 qiāo xiǎng sound bell/raise alarm
 - 警钟 jǐng zhōng alarm bell
+
+## 闲聊 xian2liao2
+
+- 有时我们在一起闲聊
+
+## 一望无际 yī wàng wú jì
+
+- 草原向四周伸展，一望无际\
+cǎo yuán xiàng sì zhōu shēn zhǎn, yī wàng wú jì
