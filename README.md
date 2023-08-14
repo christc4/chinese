@@ -74,7 +74,6 @@ tā gǎn dào de shì cóng wèi yǒu guò de chōng shí, máng lù, kuài huó
 - Used with 不 and 没, carries tone of speculation, judgement or suggestion. Often ends with 吧
 
 1. 你们之间的联系这么少，看起来总不像一家人\
-
 nǐmen zhī jiān de liánxì zhème shǎo, kàn qǐlái zǒng bù xiàng shì yī jiā rén
 
 - 之间 zhī jiān
