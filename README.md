@@ -4,7 +4,7 @@
 
 1. 她满面春风的宣布了自己升职的消息。
 
-    - 满面春风 - man3mian4chun1feng1 - beaming
+    - 满面春风 - mǎn miàn chūn fēng - beaming
     - 宣布 - xuan1bu4
     - 消息 - xiao1xi - news
 
