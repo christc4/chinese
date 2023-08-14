@@ -50,5 +50,7 @@
 
 - 有时我们在一起闲聊
 
+## 过往 guòwǎng
+
 这些过往的对话对我来说敲响了警钟
 Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
