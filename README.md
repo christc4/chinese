@@ -42,7 +42,7 @@
 
 15、我只想给你给你宠爱，这算不算不算爱，我还还还搞不明白。TFBOYS
 
-## 一望无际 yi1wang4wu2ji4
+## 一望无际 yī wàng wú jì
 
 - 草原向四周伸展，一望无际
 
@@ -54,3 +54,6 @@
 
 这些过往的对话对我来说敲响了警钟\
 Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
+
+- 敲响 qiāo xiǎng sound bell/raise alarm
+- 警钟 jǐng zhōng alarm bell
