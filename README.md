@@ -16,7 +16,10 @@
     - 磨嘴 - mo2zui3
     - 干活 - gan4huo
 
-伤心 - shang1 xin1
+3. 升职的事情让他高兴得不得了\
+   shēngzhí de shìqing ràng tā gāoxìng de bùdéliǎo
+
+## 伤心 - shang1 xin1
 
 1. 看到她伤心的样子我忍不住想安慰她。
 2. kan4 dao4 ni3 shang1xin1 de yang4zi wo3 ren3 bu4 zhu4 xiang3 an1wei4 ni3
