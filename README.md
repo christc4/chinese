@@ -73,6 +73,9 @@ tā de xué lì hěn gāo, néng lì què hěn yī bān
 3. 这件衣服虽然是名牌，但是质量却不怎么样\
 Zhè jiàn yī fu suī rán shì míng pái, dàn shì zhì liàng què bù zěn me yàng
 
+    - 名牌 - míng pái - famous brand
+    - 质量 - zhì liàng - quality
+
 4.\
 
 ## 升职 - shēng zhí
