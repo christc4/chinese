@@ -7,9 +7,11 @@
 1. 他想安慰她,却没想到反而使他更伤心\
 Tā xiǎng ān wèi tā, què méi xiǎng dào fǎn ér shǐ tā gèng shāng xīn
 
-    - 却 - què -
-    - 没想到 - méi xiǎng dào -
-
+    - 却 - què - but; yet
+    - 没想到 - méi xiǎng dào - didn't expect
+    - 反而 - fǎn ér - instead contrary
+    - 使 - shǐ - to make to cause
+    - 更 - gèng - more even more
 
 3. 这几天她心情不好，你要好好安慰她一下\
 Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
