@@ -57,9 +57,10 @@ kàn dào tā shāng xīn de yàng zǐ wǒ rěn bù zhù xiǎng ān wèi tā
 
 ## 受宠若惊 - shòu chǒng ruò jīng - overwhelmed by favor
 
-1. 受到他热情接待的我不禁有些受宠若惊
+1. 受到他热情接待的我不禁有些受宠若惊\
+shòu dào tā rèqíng jiēdài de wǒ bù jīn yǒuxiē shòu chǒng ruò jīng。
 
-    - 热情
+    - 热情 - passionate enthusiastic
     - 接待
     - 不禁
     - 有些
