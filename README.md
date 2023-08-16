@@ -4,11 +4,12 @@
 
 ### 安慰 - ān wèi
 
-1. 他想安慰她,却没想到反而使他更伤心
+1. 他想安慰她,却没想到反而使他更伤心\
+Tā xiǎng ān wèi tā, què méi xiǎng dào fǎn ér shǐ tā gèng shāng xīn
 
 
-2. 这几天她心情不好，你要好好安慰她一下\
-Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià.
+3. 这几天她心情不好，你要好好安慰她一下\
+Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
 
 ## B
 
