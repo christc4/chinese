@@ -61,6 +61,12 @@ kàn dào tā shāng xīn de yàng zǐ wǒ rěn bù zhù xiǎng ān wèi tā
 1. 过去这几天的谈话警醒了我\
 guòqù zhè jǐ tiān de tánhuà jǐngxǐngle wǒ
 
+2. 谈话的范围很广\
+tánhuà de fànwéi hěn guǎng.
+
+    - 范围 - fànwéi - range
+    - 广 - guǎng - wide
+
 ## 闲聊 xian2liao2
 
 - 有时我们在一起闲聊
