@@ -63,8 +63,15 @@ tiān kōng tū rán xià qǐ le qīng pén dà yǔ
 1. 他是老板，却没有人听他的\
 Tā shì lǎo bǎn, què méi yǒu rén tīng tā de
 
-2.\
-3.\
+2. 他的学历很高，能力却很一般\
+tā de xué lì hěn gāo, néng lì què hěn yī bān
+
+    - 学历 - xué lì - educational background
+    - 能力 - néng lì - capability
+    - 一般 - yī bān - ordinary
+
+3.          \
+
 4.\
 
 ## 升职 - shēng zhí
