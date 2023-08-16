@@ -60,10 +60,10 @@ kàn dào tā shāng xīn de yàng zǐ wǒ rěn bù zhù xiǎng ān wèi tā
 1. 受到他热情接待的我不禁有些受宠若惊\
 shòu dào tā rèqíng jiēdài de wǒ bù jīn yǒuxiē shòu chǒng ruò jīng。
 
-    - 热情 - passionate enthusiastic
-    - 接待
-    - 不禁
-    - 有些
+    - 热情 - rè qíng - passionate enthusiastic
+    - 接待 - jiē dài - receive admit
+    - 不禁 - bù jīn - can't help (doing sth)
+    - 有些 - yǒu xiē - somewhat
 
 2. 大家对我都很好，我简直受宠若惊\
 dàjiā duì wǒ dōu hěn hǎo，wǒ jiǎnzhí shòu chǒng ruò jīng
