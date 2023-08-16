@@ -27,6 +27,9 @@ Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
 - 敲响 qiāo xiǎng sound bell/raise alarm
 - 警钟 jǐng zhōng alarm bell
 
+## 简历 CV
+
+
 ## 倾盆大雨
 
 1. 天空突然下起了倾盆大雨。
