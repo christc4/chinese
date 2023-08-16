@@ -53,10 +53,19 @@ Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
 ## 简历 CV
 https://zaojv.com/3433566.html
 
-## 倾盆大雨 qīng pén dà yǔ
+### 倾盆大雨 qīng pén dà yǔ
 
 1. 天空突然下起了倾盆大雨\
 tiān kōng tū rán xià qǐ le qīng pén dà yǔ
+
+### 却 què
+
+1. 他是老板，却没有人听他的\
+Tā shì lǎo bǎn, què méi yǒu rén tīng tā de
+
+2.\
+3.\
+4.\
 
 ## 升职 - shēng zhí
 
