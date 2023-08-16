@@ -76,6 +76,9 @@ Zhè jiàn yī fu suī rán shì míng pái, dàn shì zhì liàng què bù zěn
     - 名牌 - míng pái - famous brand
     - 质量 - zhì liàng - quality
 
+1. 我是你最好的朋友，你却没邀请我\
+Wǒ shì nǐ zuì hǎo de péng yǒu, nǐ què méi yāo qǐng wǒ
+
 ```
 Put 却 after subject
 ```
