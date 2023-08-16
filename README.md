@@ -13,6 +13,15 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 1. 我的中文听力很差\
 wǒ de zhōngwén tīnglì hěn chà
 
+## 感激不尽 gǎn jī bù jìn
+
+## 过往 guòwǎng
+
+这些过往的对话对我来说敲响了警钟\
+Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
+
+- 敲响 qiāo xiǎng sound bell/raise alarm
+- 警钟 jǐng zhōng alarm bell
 
 ## 倾盆大雨
 
@@ -45,20 +54,12 @@ kàn dào tā shāng xīn de yàng zǐ wǒ rěn bù zhù xiǎng ān wèi tā
 
 ## 算不算 - suàn bù suàn
 
-我会假笑，还会说谎，这算不算特长?
+1. 我会假笑，还会说谎，这算不算特长?
 
+## 谈话 - tánhuà
 
-15、我只想给你给你宠爱，这算不算不算爱，我还还还搞不明白。TFBOYS
-
-## 感激不尽 gǎn jī bù jìn
-
-## 过往 guòwǎng
-
-这些过往的对话对我来说敲响了警钟\
-Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
-
-- 敲响 qiāo xiǎng sound bell/raise alarm
-- 警钟 jǐng zhōng alarm bell
+1. 过去这几天的谈话警醒了我\
+guòqù zhè jǐ tiān de tánhuà jǐngxǐngle wǒ
 
 ## 闲聊 xian2liao2
 
@@ -86,7 +87,7 @@ tā gǎn dào de shì cóng wèi yǒu guò de chōng shí, máng lù, kuài huó
 
 - Used with 不 and 没, carries tone of speculation, judgement or suggestion. Often ends with 吧
 
-1. 你们之间的联系这么少，看起来总不像一家人\
+1. 你们之间的联系这么少，看起来总不像是一家人\
 nǐmen zhī jiān de liánxì zhème shǎo, kàn qǐlái zǒng bù xiàng shì yī jiā rén
 
     - 之间 zhī jiān
