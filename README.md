@@ -76,6 +76,9 @@ Zhè jiàn yī fu suī rán shì míng pái, dàn shì zhì liàng què bù zěn
     - 名牌 - míng pái - famous brand
     - 质量 - zhì liàng - quality
 
+```
+Put 却 after subject
+```
 4.\
 
 ## 升职 - shēng zhí
