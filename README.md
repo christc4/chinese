@@ -70,7 +70,8 @@ tā de xué lì hěn gāo, néng lì què hěn yī bān
     - 能力 - néng lì - capability
     - 一般 - yī bān - ordinary
 
-3.          \
+3. 这件衣服虽然是名牌，但是质量却不怎么样\
+Zhè jiàn yī fu suī rán shì míng pái, dàn shì zhì liàng què bù zěn me yàng
 
 4.\
 
