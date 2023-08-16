@@ -8,7 +8,7 @@
 
 ## D
 
-## 得到 - dé dào
+### 得到 - dé dào
 
 1. 他很想得到这个工作\
 tā hěn xiǎng dédào zhègè gōngzuò。
