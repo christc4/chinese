@@ -31,15 +31,15 @@ Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
 ## 简历 CV
 https://zaojv.com/3433566.html
 
-## 倾盆大雨
+## 倾盆大雨 qīng pén dà yǔ
 
-1. 天空突然下起了倾盆大雨。
-
+1. 天空突然下起了倾盆大雨\
+tiān kōng tū rán xià qǐ le qīng pén dà yǔ
 
 ## 升职 - shēng zhí
 
 
-1. 她满面春风的宣布了自己升职的消息。
+1. 她满面春风的宣布了自己升职的消息
 
     - 满面春风 - mǎn miàn chūn fēng - beaming
     - 宣布 - xuān bù - announce
