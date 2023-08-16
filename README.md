@@ -1,6 +1,26 @@
 # Vocabulary
 
+## 饿- è
+
+1. 我没迟早饭，现在有点饿了\
+wǒ méi chī zǎofàn, xiànzài yǒu diǎn è le.
+
+2. 我一天没吃饭了，现在很饿\
+wǒ yī tiān méi chī fàn le, xiànzài hěn è.
+
+## 差 - chà
+
+1. 我的中文听力很差\
+wǒ de zhōngwén tīnglì hěn chà
+
+
+## 倾盆大雨
+
+1. 天空突然下起了倾盆大雨。
+
+
 ## 升职 - shēng zhí
+
 
 1. 她满面春风的宣布了自己升职的消息。
 
