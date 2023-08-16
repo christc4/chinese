@@ -55,6 +55,25 @@ Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
 1. 看到她伤心的样子我忍不住想安慰她\
 kàn dào tā shāng xīn de yàng zǐ wǒ rěn bù zhù xiǎng ān wèi tā
 
+## 受宠若惊 - shòu chǒng ruò jīng - overwhelmed by favor
+
+1. 受到他热情接待的我不禁有些受宠若惊
+
+    - 热情
+    - 接待
+    - 不禁
+    - 有些
+
+2. 大家对我都很好，我简直受宠若惊\
+dàjiā duì wǒ dōu hěn hǎo，wǒ jiǎnzhí shòu chǒng ruò jīng
+
+    - 简直 - jiǎn zhí - simply; really
+
+3. 受到你的邀请，我感到受宠若惊\
+shòu dào nǐ de yāoqǐng，wǒ gǎndào shòu chǒng ruò jīng。
+
+    - 受到 - shòu dào - receive praise
+    - 邀请 - yāoqǐng - invitation
 
 ## 算不算 - suàn bù suàn
 
@@ -76,10 +95,6 @@ tánhuà de fànwéi hěn guǎng.
 - 有时我们在一起闲聊
 
 ## 项目 - xiang4mu4
-
-1) 受到他热情接待的我不禁有些受宠若惊。
-7) 大家对我都很好，我简直受宠若惊。
-8) 受到你的邀请，我感到受宠若惊。
 
 12) 在本周末，还不能完成这个项目，我心里七上八下的。
 12)
