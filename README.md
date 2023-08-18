@@ -90,7 +90,7 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 ### 开门
 
 这餐厅什么时候开门\
-zhè cān tīng shén me shí hòu kāi mén?
+zhè cān tīng shén me shí hòu kāi mén
 
 ## 简历 CV
 https://zaojv.com/3433566.html
