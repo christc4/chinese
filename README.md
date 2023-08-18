@@ -32,6 +32,16 @@ shēng huó měi tiān dōu chōng mǎn xī wàng.
 
     - 充满 - chōng mǎn - full of; brimming with
 
+#### 传统 chuán tǒng
+
+1. 伏特加酒，俄罗斯的传统酒精饮料\
+fú tè jiā jiǔ, É luó sī de chuán tǒng jiǔ jīng yǐn liào
+
+    - 伏特加酒 - fú tè jiā jiǔ - vodka
+    - 俄罗斯 - É luó sī - Russia
+    - 传统 - chuán tǒng - tradition
+    - 酒精饮料 - jiǔ jīng yǐn liào - liquor
+
 ## D
 
 ### 得到 - dé dào
