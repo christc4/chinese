@@ -227,7 +227,7 @@ cǎo yuán xiàng sì zhōu shēn zhǎn, yī wàng wú jì
 - 他感到的是从未有过的充实、忙碌、快活、有趣\
 tā gǎn dào de shì cóng wèi yǒu guò de chōng shí, máng lù, kuài huó, yǒu qù
 
-## 运动
+## 运动 yùn dòng
 
 跑步是我最喜欢的运动\
 pǎo bù shì wǒ zuì xǐ huān de yùn dòng
