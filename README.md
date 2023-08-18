@@ -20,6 +20,10 @@ Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
 
 ## C
 
+### 充满 chōngmǎn
+
+1. 生活每天都充满希望
+
 ## D
 
 ### 得到 - dé dào
