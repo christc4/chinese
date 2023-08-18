@@ -202,7 +202,7 @@ pǎo bù shì wǒ zuì xǐ huān de yùn dòng
 
 ## Z
 
-### 找到
+### 找到 - zhǎo dào
 
 1. 我找到我的生活了\
 wǒ zhǎo dào wǒ de shēng huó le
