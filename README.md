@@ -97,8 +97,12 @@ https://zaojv.com/3433566.html
 
 ## P
 
-### 普遍\
+### 普遍 pǔ biàn
+
+1. 现在普遍被接受的说法\
 xiàn zài pǔ biàn bèi jiē shòu de shuō fǎ
+
+    - 普遍 - pǔ biàn - universal
 
 ## Q
 
