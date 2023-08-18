@@ -97,7 +97,7 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 
 ## K
 
-### 开门
+### 开门 kāi mén
 
 这餐厅什么时候开门\
 zhè cān tīng shén me shí hòu kāi mén
