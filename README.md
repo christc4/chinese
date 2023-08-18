@@ -20,6 +20,11 @@ Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
 
 ## C
 
+### 差 - chà
+
+1. 我的中文听力很差\
+wǒ de zhōngwén tīnglì hěn chà
+
 ### 充满 chōngmǎn
 
 1. 生活每天都充满希望\
@@ -34,6 +39,8 @@ shēng huó měi tiān dōu chōng mǎn xī wàng.
 1. 他很想得到这个工作\
 tā hěn xiǎng dédào zhègè gōngzuò。
 
+## E
+
 ### 饿- è
 
 1. 我没迟早饭，现在有点饿了\
@@ -42,10 +49,12 @@ wǒ méi chī zǎofàn, xiànzài yǒu diǎn è le.
 2. 我一天没吃饭了，现在很饿\
 wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 
-### 差 - chà
+## F
 
-1. 我的中文听力很差\
-wǒ de zhōngwén tīnglì hěn chà
+### 反正
+
+1. 我反正有空, 就你的时间吧\
+wǒ fǎn zhèng yǒu kòng, jiù nǐ de shí jiān ba
 
 ## 感激不尽 gǎn jī bù jìn
 
