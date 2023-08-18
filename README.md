@@ -200,6 +200,13 @@ tā gǎn dào de shì cóng wèi yǒu guò de chōng shí, máng lù, kuài huó
 跑步是我最喜欢的运动\
 pǎo bù shì wǒ zuì xǐ huān de yùn dòng
 
+## Z
+
+### 找到
+
+1. 我找到我的生活了\
+wǒ zhǎo dào wǒ de shēng huó le
+
 ### 只 zhǐ
 
 1. 我只买了一件衣服
