@@ -57,6 +57,14 @@ Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
 - 敲响 qiāo xiǎng sound bell/raise alarm
 - 警钟 jǐng zhōng alarm bell
 
+### 互相
+
+1. 大家互相帮助是应该的\
+dà jiā hù xiāng bāng zhù shì yīng gāi de
+
+    - 互相 - hù xiāng
+    - 应该的 - ought to
+
 ## 简历 CV
 https://zaojv.com/3433566.html
 
