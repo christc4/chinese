@@ -63,15 +63,19 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 1. 我反正有空, 就你的时间吧\
 wǒ fǎn zhèng yǒu kòng, jiù nǐ de shí jiān ba
 
-## 感激不尽 gǎn jī bù jìn
+## G
 
-## 过往 guòwǎng
+### 感激不尽 gǎn jī bù jìn
+
+### 过往 guòwǎng
 
 这些过往的对话对我来说敲响了警钟\
 Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
 
 - 敲响 qiāo xiǎng sound bell/raise alarm
 - 警钟 jǐng zhōng alarm bell
+
+## H
 
 ### 互相
 
@@ -80,6 +84,13 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 
     - 互相 - hù xiāng
     - 应该的 - ought to
+
+## K
+
+### 开门
+
+这餐厅什么时候开门\
+zhè cān tīng shén me shí hòu kāi mén?
 
 ## 简历 CV
 https://zaojv.com/3433566.html
