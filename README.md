@@ -95,6 +95,13 @@ zhè cān tīng shén me shí hòu kāi mén
 ## 简历 CV
 https://zaojv.com/3433566.html
 
+## P
+
+### 普遍\
+xiàn zài pǔ biàn bèi jiē shòu de shuō fǎ
+
+## Q
+
 ### 倾盆大雨 qīng pén dà yǔ
 
 1. 天空突然下起了倾盆大雨\
