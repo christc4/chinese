@@ -102,7 +102,7 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 这餐厅什么时候开门\
 zhè cān tīng shén me shí hòu kāi mén
 
-## 简历 CV
+### 简历 CV
 https://zaojv.com/3433566.html
 
 ## P
@@ -113,6 +113,14 @@ https://zaojv.com/3433566.html
 xiàn zài pǔ biàn bèi jiē shòu de shuō fǎ
 
     - 普遍 - pǔ biàn - universal
+
+2. 现在，中国人普遍富裕起来了\
+xiànzài, Zhōngguó rén pǔ biàn fù yù qǐ lái le
+
+    - 富裕 - fù yù - prosperous
+
+3. 这是事物的普遍规律
+
 
 ## Q
 
