@@ -175,7 +175,8 @@ tánhuà de fànwéi hěn guǎng.
 
 ## 闲聊 xian2liao2
 
-- 有时我们在一起闲聊
+- 有时我们在一起闲聊\
+yǒu shí wǒmen zài yī qǐ xián liáo
 
 ## 项目 - xiang4mu4
 
