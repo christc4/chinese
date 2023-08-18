@@ -163,6 +163,11 @@ cǎo yuán xiàng sì zhōu shēn zhǎn, yī wàng wú jì
 - 他感到的是从未有过的充实、忙碌、快活、有趣\
 tā gǎn dào de shì cóng wèi yǒu guò de chōng shí, máng lù, kuài huó, yǒu qù
 
+### 只 zhǐ
+
+1. 我只买了一件衣服
+
+
 ## 总
 
 - Used with 不 and 没, carries tone of speculation, judgement or suggestion. Often ends with 吧
