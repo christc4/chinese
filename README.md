@@ -39,6 +39,13 @@ shēng huó měi tiān dōu chōng mǎn xī wàng.
 1. 他很想得到这个工作\
 tā hěn xiǎng dédào zhègè gōngzuò。
 
+### 锻炼 -
+
+1. 锻炼对身体带来很多好处\
+duàn liàn duì shēn tǐ dài lái hěn duō hǎo chù
+
+    - 好处- hǎo chù
+
 ## E
 
 ### 饿- è
@@ -186,6 +193,11 @@ cǎo yuán xiàng sì zhōu shēn zhǎn, yī wàng wú jì
 
 - 他感到的是从未有过的充实、忙碌、快活、有趣\
 tā gǎn dào de shì cóng wèi yǒu guò de chōng shí, máng lù, kuài huó, yǒu qù
+
+## 运动
+
+跑步是我最喜欢的运动\
+pǎo bù shì wǒ zuì xǐ huān de yùn dòng
 
 ### 只 zhǐ
 
