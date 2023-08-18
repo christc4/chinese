@@ -22,7 +22,10 @@ Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
 
 ### 充满 chōngmǎn
 
-1. 生活每天都充满希望
+1. 生活每天都充满希望\
+shēng huó měi tiān dōu chōng mǎn xī wàng.
+
+    - 充满 - chōng mǎn - full of; brimming with
 
 ## D
 
