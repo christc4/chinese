@@ -68,6 +68,11 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 
 ## F
 
+### 放弃
+
+1. 我不懂为什么你要放弃
+
+
 ### 反正
 
 1. 我反正有空, 就你的时间吧\
@@ -155,7 +160,12 @@ wǒ shì nǐ zuì hǎo de péng yǒu, nǐ què méi yāo qǐng wǒ
 Put 却 after subject
 ```
 
-## 升职 - shēng zhí
+## R
+
+### 入场
+快去买公园入场票吧！
+
+### 升职 - shēng zhí
 
 
 1. 她满面春风的宣布了自己升职的消息
