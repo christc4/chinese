@@ -107,6 +107,13 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 这餐厅什么时候开门\
 zhè cān tīng shén me shí hòu kāi mén
 
+## L
+
+### 旅游
+
+1. 我下个月要去韩国旅游
+
+
 ### 简历 jiǎn lì
 
 https://zaojv.com/3433566.html
