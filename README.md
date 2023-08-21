@@ -146,7 +146,10 @@ yīnwèi fàn le cuòwù,tā xīnlǐ qīshàngbāxià de
 
     - 犯 - fàn - mistake
     - 错误 - cuòwù - mistake
-2.
+
+2. 考试成绩就要公布了，小红心里七上八下，生怕自己没考好\
+
+3.
 ### 倾盆大雨 qīng pén dà yǔ
 
 1. 天空突然下起了倾盆大雨\
