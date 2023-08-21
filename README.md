@@ -152,7 +152,9 @@ kǎoshì chéngjì jiùyào gōngbù le，xiǎo hóng xīnlǐ qīshàngbāxià�
 
     - 成绩 - chéngjì - grades, performance records, achievement
     - 公布 - gōngbù - announce, make public, publish
-3.
+
+3. 日本人打中国的时候，中国老百姓心里整天七上八下，提心吊胆\
+
 ### 倾盆大雨 qīng pén dà yǔ
 
 1. 天空突然下起了倾盆大雨\
