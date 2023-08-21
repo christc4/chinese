@@ -308,7 +308,7 @@ zhème wǎn le, zǒng bù huì chū le shénme shì ba?
 
 ## USEFUL WEBSITES ~
 
-3, 4, 5, 6, 8, 9, 10 , 11, 19, 18!!! 20, 21, 22,, 23, 24
+ 6, 8, 9, 10 , 11, 19, 18!!! 20, 21, 22,, 23, 24
 30
 
 translate at stake
