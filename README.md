@@ -156,6 +156,9 @@ kǎoshì chéngjì jiùyào gōngbù le，xiǎo hóng xīnlǐ qīshàngbāxià�
 1. 日本人打中国的时候，中国老百姓心里整天七上八下，提心吊胆\
 rì běn rén dǎ zhōngguó de shí hòu, zhōngguó lǎo bǎi xìng xīn lǐ zhěng tiān qī shàng bā xià, tí xīn diào dǎn
 
+    - 打 - dǎ - to hit
+    - 老百姓 - lǎo bǎi xìng - ordinary people
+    - 提心吊胆 - tí xīn diào dǎn - scared on edge
 
 2. 不三不四，七上八下，你走不走，你不走我走。
 
