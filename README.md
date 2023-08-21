@@ -68,10 +68,10 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 
 ## F
 
-### 放弃
+### 放弃 - fàng qì
 
-1. 我不懂为什么你要放弃
-
+1. 我不懂为什么你要放弃\
+wǒ bù dǒng wèi shén me nǐ yào fàng qì
 
 ### 反正
 
