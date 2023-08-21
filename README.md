@@ -144,6 +144,8 @@ xiànzài, Zhōngguó rén pǔ biàn fù yù qǐ lái le
 1. 因为犯了错误,他心里七上八下的\
 yīnwèi fàn le cuòwù,tā xīnlǐ qīshàngbāxià de
 
+    - 犯 - fàn - mistake
+    - 错误 - cuòwù - mistake
 2.
 ### 倾盆大雨 qīng pén dà yǔ
 
