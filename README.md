@@ -243,6 +243,8 @@ yǒu shí wǒmen zài yī qǐ xián liáo
 1. 在本周末，还不能完成这个项目，我心里七上八下的\
 zài běn zhōumò，hái bùnéng wánchéng zhègè xiàngmù，wǒ xīnlǐ qīshàngbāxià de
 
+    - 七上八下 qīshàngbāxià - perturbed state of mind
+
 3. 如今时间就是金钱,如果你觉得这个项目值得干,就操刀必割,赶快上马\
 rújīn shíjiān jiùshì jīnqián,rúguǒ nǐ juédé zhègè xiàngmù zhíde gàn,jiù cāodāobìgē,gǎnkuài shàngmǎ
 
