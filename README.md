@@ -139,6 +139,11 @@ xiànzài, Zhōngguó rén pǔ biàn fù yù qǐ lái le
 
 ## Q
 
+### 七上八下
+
+1. 因为犯了错误,他心里七上八下的
+
+Yīn wèi fàn le cuò wù, tā xīn lǐ qī shàng bā xià de.
 ### 倾盆大雨 qīng pén dà yǔ
 
 1. 天空突然下起了倾盆大雨\
