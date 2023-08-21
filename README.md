@@ -49,7 +49,7 @@ fú tè jiā jiǔ, É luó sī de chuán tǒng jiǔ jīng yǐn liào
 1. 他很想得到这个工作\
 tā hěn xiǎng dédào zhègè gōngzuò。
 
-### 锻炼 -
+### 锻炼 - duàn liàn
 
 1. 锻炼对身体带来很多好处\
 duàn liàn duì shēn tǐ dài lái hěn duō hǎo chù
@@ -113,6 +113,8 @@ zhè cān tīng shén me shí hòu kāi mén
 
 1. 我下个月要去韩国旅游\
 wǒ xià gè yuè yào qù Hán guó lǚ yóu
+
+2. 旅游可以使人开阔眼界，增长见识\
 
 ### 简历 jiǎn lì
 
@@ -289,4 +291,5 @@ zhème wǎn le, zǒng bù huì chū le shénme shì ba?
 
 ## USEFUL WEBSITES ~
 
+j
 - https://zaojv.com/
