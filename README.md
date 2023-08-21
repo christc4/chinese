@@ -275,7 +275,6 @@ wǒ zhǎo dào wǒ de shēng huó le
 
 1. 我只买了一件衣服
 
-
 ## 总 - zǒng
 
 - Used with 不 and 没, carries tone of speculation, judgement or suggestion. Often ends with 吧
