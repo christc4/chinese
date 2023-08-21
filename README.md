@@ -109,7 +109,7 @@ zhè cān tīng shén me shí hòu kāi mén
 
 ## L
 
-### 旅游
+### 旅游 - lǚ yóu
 
 1. 我下个月要去韩国旅游\
 wǒ xià gè yuè yào qù Hán guó lǚ yóu
