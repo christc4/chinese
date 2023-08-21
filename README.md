@@ -148,8 +148,10 @@ yīnwèi fàn le cuòwù,tā xīnlǐ qīshàngbāxià de
     - 错误 - cuòwù - mistake
 
 2. 考试成绩就要公布了，小红心里七上八下，生怕自己没考好\
+kǎoshì chéngjì jiùyào gōngbù le，xiǎo hóng xīnlǐ qīshàngbāxià，shēngpà zìjǐ méi kǎo hǎo
 
-
+    - 成绩 - chéngjì - grades, performance records, achievement
+    - 公布 - gōngbù - announce, make public, publish
 3.
 ### 倾盆大雨 qīng pén dà yǔ
 
