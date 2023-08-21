@@ -273,7 +273,8 @@ wǒ zhǎo dào wǒ de shēng huó le
 
 ### 只 zhǐ
 
-1. 我只买了一件衣服
+1. 我只买了一件衣服\
+wǒ zhǐ mǎi le yījiàn yīfú
 
 ## 总 - zǒng
 
