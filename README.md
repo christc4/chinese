@@ -73,7 +73,7 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 1. 我不懂为什么你要放弃\
 wǒ bù dǒng wèi shén me nǐ yào fàng qì
 
-### 反正
+### 反正 - fǎn zhèng
 
 1. 我反正有空, 就你的时间吧\
 wǒ fǎn zhèng yǒu kòng, jiù nǐ de shí jiān ba
