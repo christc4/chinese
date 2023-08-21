@@ -92,7 +92,7 @@ Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
 
 ## H
 
-### 互相
+### 互相 - hù xiāng
 
 1. 大家互相帮助是应该的\
 dà jiā hù xiāng bāng zhù shì yīng gāi de
