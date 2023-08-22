@@ -73,11 +73,6 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 1. 我不懂为什么你要放弃\
 wǒ bù dǒng wèi shén me nǐ yào fàng qì
 
-### 反正 - fǎn zhèng
-
-1. 我反正有空, 就你的时间吧\
-wǒ fǎn zhèng yǒu kòng, jiù nǐ de shí jiān ba
-
 2. 即使没有人相信你，也不要放弃希望\
 jí shǐ méi yǒu rén xiāng xìn nǐ, yě bù yào fàng qì xī wàng
 
@@ -86,6 +81,10 @@ wú lùn tōng wǎng chéng gōng de lù tú yǒu duō jiān xīn, wǒ dōu bù 
 
 4. 在困难面前，你是选择坚持，还是选择放弃\
 zài kùn nán miàn qián, nǐ shì xuǎn zé jiān chí, háishì xuǎn zé fàng qì
+### 反正 - fǎn zhèng
+
+1. 我反正有空, 就你的时间吧\
+wǒ fǎn zhèng yǒu kòng, jiù nǐ de shí jiān ba
 
 ## G
 
