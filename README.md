@@ -85,7 +85,8 @@ jí shǐ méi yǒu rén xiāng xìn nǐ, yě bù yào fàng qì xī wàng
 wú lùn tōng wǎng chéng gōng de lù tú yǒu duō jiān xīn, wǒ dōu bù huì fàng qì
 
 4. 在困难面前，你是选择坚持，还是选择放弃\
-zài kùn nán miàn qián, nǐ shì xuǎn zé jiān chí, háishì xuǎn zé fàng qì?
+zài kùn nán miàn qián, nǐ shì xuǎn zé jiān chí, háishì xuǎn zé fàng qì
+
 ## G
 
 ### 感激不尽 gǎn jī bù jìn
