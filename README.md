@@ -82,7 +82,12 @@ jí shǐ méi yǒu rén xiāng xìn nǐ, yě bù yào fàng qì xī wàng
 3. 无论通往成功的路途有多艰辛，我都不会放弃\
 wú lùn tōng wǎng chéng gōng de lù tú yǒu duō jiān xīn, wǒ dōu bù huì fàng qì
 
-4. 在困难面前，你是选择坚持，还是选择放弃\
+    - 通往 - tōng wǎng - lead to
+    - 成功 - chéng gōng - success
+    - 路途 - lù tú - path
+    - 艰辛 - jiān xīn - hardships
+
+1. 在困难面前，你是选择坚持，还是选择放弃\
 zài kùn nán miàn qián, nǐ shì xuǎn zé jiān chí, háishì xuǎn zé fàng qì
 
 ### 反正 - fǎn zhèng
