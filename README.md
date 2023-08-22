@@ -87,8 +87,12 @@ wú lùn tōng wǎng chéng gōng de lù tú yǒu duō jiān xīn, wǒ dōu bù 
     - 路途 - lù tú - path
     - 艰辛 - jiān xīn - hardships
 
-1. 在困难面前，你是选择坚持，还是选择放弃\
+4. 在困难面前，你是选择坚持，还是选择放弃\
 zài kùn nán miàn qián, nǐ shì xuǎn zé jiān chí, háishì xuǎn zé fàng qì
+
+    - 困难 - kùn nán - difficult circumstances
+    - 选择 - xuǎn zé - to pick
+    - 坚持 - jiān chí - to persevere
 
 ### 反正 - fǎn zhèng
 
