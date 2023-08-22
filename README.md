@@ -76,6 +76,9 @@ wǒ bù dǒng wèi shén me nǐ yào fàng qì
 2. 即使没有人相信你，也不要放弃希望\
 jí shǐ méi yǒu rén xiāng xìn nǐ, yě bù yào fàng qì xī wàng
 
+    - 即使 - jí shǐ - even if
+    - 相信 - xiāng xìn - believe in
+
 3. 无论通往成功的路途有多艰辛，我都不会放弃\
 wú lùn tōng wǎng chéng gōng de lù tú yǒu duō jiān xīn, wǒ dōu bù huì fàng qì
 
