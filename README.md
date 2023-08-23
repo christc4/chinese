@@ -103,6 +103,9 @@ wǒ fǎn zhèng yǒu kòng, jiù nǐ de shí jiān ba
 
 ### 感激不尽 gǎn jī bù jìn
 
+1. 我随身可以带几公斤行李
+
+    - 随身
 ### 公斤 gōngjīn - kg
 
 ### 过往 guòwǎng
