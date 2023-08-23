@@ -141,9 +141,18 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 
 ### 接受 jiē shòu
 
-1. 我们的老师从来不接受同学们的礼物
+1. 我们的老师从来不接受同学们的礼物\
+wǒmen de lǎoshī cóng lái bù jiē shòu tóngxuémen de lǐwù.
 
-3. 你家人会接受吗？
+2. 你家人会接受吗？\
+nǐ jiā rén huì jiē shòu ma?
+
+3. 自己的意见不能强迫别人接受\
+Zìjǐ de yìjiàn bù néng qiǎngpò biérén jiēshòu.
+
+4. 我们应该虚心接受别人善意的批评。
+
+5. 年轻人思想开明，勇于接受新事物。
 ## K
 
 ### 开门 kāi mén
