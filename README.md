@@ -103,9 +103,12 @@ wǒ fǎn zhèng yǒu kòng, jiù nǐ de shí jiān ba
 
 ### 感激不尽 gǎn jī bù jìn
 
-1. 我随身可以带几公斤行李
+1. 我随身可以带几公斤行李\
 wǒ suíshēn kěyǐ dài jǐgōngjīn xíngli
-    - 随身
+
+    - 随身 suíshēn - to (carry) on one's person
+    - 行李 xíngli - luggage
+
 ### 公斤 gōngjīn - kg
 
 ### 过往 guòwǎng
