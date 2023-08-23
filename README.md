@@ -109,6 +109,9 @@ wǒ suíshēn kěyǐ dài jǐgōngjīn xíngli
     - 随身 suíshēn - to (carry) on one's person
     - 行李 xíngli - luggage
 
+1. 这个包裹过重一公斤
+
+
 ### 公斤 gōngjīn - kg
 
 ### 过往 guòwǎng
