@@ -150,7 +150,7 @@ wǒmen de lǎoshī cóng lái bù jiē shòu tóngxuémen de lǐwù.
 nǐ jiā rén huì jiē shòu ma?
 
 3. 自己的意见不能强迫别人接受\
-Zìjǐ de yìjiàn bù néng qiǎngpò biérén jiēshòu
+zìjǐ de yìjiàn bù néng qiǎngpò biérén jiēshòu
 
     - 自己的意见 Zìjǐ de yìjiàn - one's own idea, opinion, objection, complaint
 
@@ -158,11 +158,11 @@ Zìjǐ de yìjiàn bù néng qiǎngpò biérén jiēshòu
 
     - 别人接受 biérén jiēshòu - others to accept
 
-4. 我们应该虚心接受别人善意的批评。
+4. 我们应该虚心接受别人善意的批评\
 
-5. 年轻人思想开明，勇于接受新事物。
+5. 年轻人思想开明，勇于接受新事物\
 
-6. 不要费时间左思右想了，马上接受这个机会吧。
+6. 不要费时间左思右想了，马上接受这个机会吧\
 
 ## K
 
