@@ -158,7 +158,6 @@ Zìjǐ de yìjiàn bù néng qiǎngpò biérén jiēshòu
 
     - 别人接受 biérén jiēshòu - others to accept
 
-
 4. 我们应该虚心接受别人善意的批评。
 
 5. 年轻人思想开明，勇于接受新事物。
