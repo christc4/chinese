@@ -417,3 +417,17 @@ zhème wǎn le, zǒng bù huì chū le shénme shì ba?
 有一次，我的数学考试考的不是很好，回到家里心里总是七上八下怕妈妈打我。
 translate at stake
 - https://zaojv.com/
+
+## "Trajectory"
+
+1. Your career *trajectory* is of course inseperatable from your overall life *trajectory*.
+
+2. His predicted career *trajectory* is too ambitous
+
+## "Bereavement"
+
+1. The sudden *bereavement* she suffered left her depressed and bedridden
+
+2. The *bereaved* individual wept openly
+
+3. His personal life was hit by multiple *bereavements*
