@@ -144,11 +144,20 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 1. 我们的老师从来不接受同学们的礼物\
 wǒmen de lǎoshī cóng lái bù jiē shòu tóngxuémen de lǐwù.
 
+    - 从来不 cóng lái bù - never
+
 2. 你家人会接受吗？\
 nǐ jiā rén huì jiē shòu ma?
 
 3. 自己的意见不能强迫别人接受\
-Zìjǐ de yìjiàn bù néng qiǎngpò biérén jiēshòu.
+Zìjǐ de yìjiàn bù néng qiǎngpò biérén jiēshòu
+
+    - 自己的意见 Zìjǐ de yìjiàn - one's own idea, opinion, objection, complaint
+
+    - 不能强迫 bù néng qiǎngpò - cannot force
+
+    - 别人接受 biérén jiēshòu - others to accept
+
 
 4. 我们应该虚心接受别人善意的批评。
 
