@@ -135,6 +135,14 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
     - 互相 - hù xiāng
     - 应该的 - ought to
 
+## I
+
+## J
+
+### 接受 jiē shòu
+
+1. 我们的老师从来不接受同学们的礼物
+
 ## K
 
 ### 开门 kāi mén
