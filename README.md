@@ -162,7 +162,9 @@ zìjǐ de yìjiàn bù néng qiǎngpò biérén jiēshòu
 wǒmen yīng gāi xū xīn jiē shòu biérén shàn yì de pī píng
 
     - 虚心 - open-minded
-    -
+    - 善意
+
+    - 批评
 
 5. 年轻人思想开明，勇于接受新事物\
 
