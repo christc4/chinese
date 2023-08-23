@@ -103,6 +103,8 @@ wǒ fǎn zhèng yǒu kòng, jiù nǐ de shí jiān ba
 
 ### 感激不尽 gǎn jī bù jìn
 
+### 公斤 gōngjīn - kg
+
 1. 我随身可以带几公斤行李\
 wǒ suíshēn kěyǐ dài jǐgōngjīn xíngli
 
@@ -114,8 +116,6 @@ zhègè bāoguǒ guòzhòng yī gōngjīn
 
     - 包裹 bāoguǒ - parcel
     - 过重 guòzhòng - overweight (parcels)
-
-### 公斤 gōngjīn - kg
 
 ### 过往 guòwǎng
 
