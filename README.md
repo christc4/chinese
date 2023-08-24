@@ -70,8 +70,8 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 
 ### 反正
 
-1. 不管他去不去，反正我要去
-
+1. 不管他去不去，反正我要去\
+bùguǎn tā qùbùqù，fǎnzhèng wǒ yào qù
 
 ### 放弃 - fàng qì
 
