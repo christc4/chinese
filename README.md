@@ -70,7 +70,10 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 
 ### 反正
 
-1. 不管他去不去，反正我要去\
+1. 我反正有空, 就你的时间吧\
+wǒ fǎn zhèng yǒu kòng, jiù nǐ de shí jiān ba
+
+2. 不管他去不去，反正我要去\
 bùguǎn tā qùbùqù，fǎnzhèng wǒ yào qù
 
     - 不管 bùguǎn - regardless
@@ -111,11 +114,6 @@ zài kùn nán miàn qián, nǐ shì xuǎn zé jiān chí, háishì xuǎn zé f�
     - 困难 - kùn nán - difficult circumstances
     - 选择 - xuǎn zé - to pick
     - 坚持 - jiān chí - to persevere
-
-### 反正 - fǎn zhèng
-
-1. 我反正有空, 就你的时间吧\
-wǒ fǎn zhèng yǒu kòng, jiù nǐ de shí jiān ba
 
 ## G
 
