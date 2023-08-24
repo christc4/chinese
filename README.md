@@ -1,6 +1,6 @@
 # Vocabulary
 
-## A Testing
+## A
 
 ### 安慰 - ān wèi
 
