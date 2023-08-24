@@ -80,6 +80,12 @@ bùguǎn tā qùbùqù，fǎnzhèng wǒ yào qù
 反正 + Reason, Decision/Suggestion. Decision/suggestion, 反正+ reason
 ```
 
+1. 反正他们不来了，咱们自己去吧
+
+2. 我就送给你吧，反正我也不需要
+
+3. 反正我家够大，你今晚都住这儿吧
+
 ### 放弃 - fàng qì
 
 1. 我不懂为什么你要放弃\
