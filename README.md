@@ -68,6 +68,11 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 
 ## F
 
+### 反正
+
+1. 不管他去不去，反正我要去
+
+
 ### 放弃 - fàng qì
 
 1. 我不懂为什么你要放弃\
@@ -280,6 +285,7 @@ Zhè jiàn yī fu suī rán shì míng pái, dàn shì zhì liàng què bù zěn
 4. 我是你最好的朋友，你却没邀请我\
 wǒ shì nǐ zuì hǎo de péng yǒu, nǐ què méi yāo qǐng wǒ
 
+5. 雖然外面很冷, 房間卻很熱。
 ```
 Put 却 after subject
 ```
