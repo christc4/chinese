@@ -198,7 +198,7 @@ zhè cān tīng shén me shí hòu kāi mén
 
 ## L
 
-### 恋人
+### 恋人 liànrén
 
 1. 这对形影不离的恋人显然对各自父母的劝阻满不在乎
 
@@ -377,7 +377,9 @@ tánhuà de fànwéi hěn guǎng.
     - 范围 - fànwéi - range
     - 广 - guǎng - wide
 
-## 闲聊 xian2liao2
+## X
+
+### 闲聊 xian2liao2
 
 - 有时我们在一起闲聊\
 yǒu shí wǒmen zài yī qǐ xián liáo
