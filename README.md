@@ -299,6 +299,7 @@ Zhè jiàn yī fu suī rán shì míng pái, dàn shì zhì liàng què bù zěn
 wǒ shì nǐ zuì hǎo de péng yǒu, nǐ què méi yāo qǐng wǒ
 
 5. 雖然外面很冷, 房間卻很熱。
+
 ```
 Put 却 after subject
 ```
