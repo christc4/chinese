@@ -73,7 +73,13 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 1. 不管他去不去，反正我要去\
 bùguǎn tā qùbùqù，fǎnzhèng wǒ yào qù
 
-    - 不管
+    - 不管 bùguǎn - regardless
+
+```
+反正 to emphasise a reason, used in the beginning of the clause introducing the reason.
+反正 + Reason, Decision/Suggestion. Decision/suggestion, 反正+ reason
+```
+
 ### 放弃 - fàng qì
 
 1. 我不懂为什么你要放弃\
