@@ -73,6 +73,7 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 1. 不管他去不去，反正我要去\
 bùguǎn tā qùbùqù，fǎnzhèng wǒ yào qù
 
+    - 不管
 ### 放弃 - fàng qì
 
 1. 我不懂为什么你要放弃\
