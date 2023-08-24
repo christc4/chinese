@@ -212,6 +212,7 @@ gòng tóng de mù biāo bǎ dà jiā jǐn mì de lián xì zài yī qǐ
     - 共同 gòng tóng - common
     - 目标 mùbiāo - target, goal
     - 紧密 jǐn mì - inseperably close
+
 ### 旅游 lǚ yóu
 
 1. 我下个月要去韩国旅游\
