@@ -457,3 +457,15 @@ zhème wǎn le, zǒng bù huì chū le shénme shì ba?
 有一次，我的数学考试考的不是很好，回到家里心里总是七上八下怕妈妈打我。
 translate at stake
 - https://zaojv.com/
+
+
+
+
+ 我看了你推荐的动画
+
+
+尽管没有英文字幕，我还是能理解这集内容。
+
+Jǐnguǎn méiyǒu yīngwén zìmù, wǒ háishì néng lǐjiě zhè jí nèiróng.
+
+我正在看第三集。
