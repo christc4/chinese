@@ -469,3 +469,5 @@ translate at stake
 Jǐnguǎn méiyǒu yīngwén zìmù, wǒ háishì néng lǐjiě zhè jí nèiróng.
 
 我正在看第三集。
+
+ni jin tian rang wo xue hui le hen duo zhong wen, gan ji bu jin
