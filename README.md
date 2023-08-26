@@ -329,8 +329,14 @@ Put 却 after subject
 2. 如果您目前在中国，我们的指南向您介绍您应申请的签证种签证以及如何申请\
 Rú guǒ nín mù qián zài Zhōngguó, wǒmen de zhǐnán xiàng nín jièshào nín yīng shēn qǐng qiú de qiānzhèng zhǒng qiānzhèng yǐjí rúhé shēnqǐng
 
-    - 目前 mù qián
-    -
+    - 目前 mù qián - currently
+    - 指南 zhǐnán - guidebook
+    - 向 xiàng - support
+    - 介绍 jièshào - introduce
+    - 以及 yǐjí - as well as, too and
+    - 如何 rúhé - how, what way, and
+
+
 ## 伤心 - shāng xīn
 
 1. 看到她伤心的样子我忍不住想安慰她\
