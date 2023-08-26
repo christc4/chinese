@@ -336,7 +336,6 @@ Rú guǒ nín mù qián zài Zhōngguó, wǒmen de zhǐnán xiàng nín jièshà
     - 以及 yǐjí - as well as, too and
     - 如何 rúhé - how, what way, and
 
-
 ## 伤心 - shāng xīn
 
 1. 看到她伤心的样子我忍不住想安慰她\
