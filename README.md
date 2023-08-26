@@ -324,7 +324,7 @@ Put 却 after subject
 
 1. 申请英国签证
 
-    - 签证
+    - 签证 qiānzhèng - visa, to issue a visa
 
 ## 伤心 - shāng xīn
 
