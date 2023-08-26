@@ -318,8 +318,16 @@ Put 却 after subject
 ### 入场
 快去买公园入场票吧！
 
-### 升职 - shēng zhí
+## S
 
+### 申请
+
+## 伤心 - shāng xīn
+
+1. 看到她伤心的样子我忍不住想安慰她\
+kàn dào tā shāng xīn de yàng zǐ wǒ rěn bù zhù xiǎng ān wèi tā
+
+### 升职 - shēng zhí
 
 1. 她满面春风的宣布了自己升职的消息
 
@@ -335,11 +343,6 @@ Put 却 after subject
 
 3. 升职的事情让他高兴得不得了\
    shēngzhí de shìqing ràng tā gāoxìng de bùdéliǎo
-
-## 伤心 - shāng xīn
-
-1. 看到她伤心的样子我忍不住想安慰她\
-kàn dào tā shāng xīn de yàng zǐ wǒ rěn bù zhù xiǎng ān wèi tā
 
 ## 受宠若惊 - shòu chǒng ruò jīng - overwhelmed by favor
 
@@ -366,7 +369,9 @@ shòu dào nǐ de yāoqǐng，wǒ gǎndào shòu chǒng ruò jīng。
 
 1. 我会假笑，还会说谎，这算不算特长?
 
-## 谈话 - tánhuà
+## T
+
+### 谈话 - tánhuà
 
 1. 过去这几天的谈话警醒了我\
 guòqù zhè jǐ tiān de tánhuà jǐngxǐngle wǒ
