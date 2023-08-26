@@ -327,7 +327,7 @@ Put 却 after subject
     - 签证 qiānzhèng - visa, to issue a visa
 
 2. 如果您目前在中国，我们的指南向您介绍您应申请的签证种签证以及如何申请\
-Rú guǒ nín mù qián zài Zhōngguó, wǒmen de zhǐnán xiàng nín jièshào nín yīng shēn qǐng qiú de qiānzhèng zhǒng qiānzhèng yǐjí rúhé shēnqǐng
+Rú guǒ nín mù qián zài Zhōngguó, wǒmen de zhǐnán xiàng nín jièshào nín yīng shēn qǐng de qiānzhèng zhǒng lèi yǐjí rúhé shēnqǐng
 
     - 目前 mù qián - currently
     - 指南 zhǐnán - guidebook
