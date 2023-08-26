@@ -320,7 +320,7 @@ Put 却 after subject
 
 ## S
 
-### 申请
+### 申请 shēnqǐng
 
 ## 伤心 - shāng xīn
 
