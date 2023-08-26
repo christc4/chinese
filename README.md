@@ -326,6 +326,8 @@ Put 却 after subject
 
     - 签证 qiānzhèng - visa, to issue a visa
 
+2. 如果您目前在中国，我们的指南向您介绍您应申请的签证种签证以及如何申请
+
 ## 伤心 - shāng xīn
 
 1. 看到她伤心的样子我忍不住想安慰她\
