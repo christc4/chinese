@@ -441,7 +441,9 @@ tánhuà de fànwéi hěn guǎng.
 
 ### 推荐 - tuījiàn
 
-1. 我看了你推荐的动画
+1. 我看了你推荐的动画\
+wǒ kàn le nǐ tuījiàn de dònghuà
+
 ## X
 
 ### 闲聊 xian2liao2
