@@ -52,6 +52,14 @@ nǐ jǐshí xiàbān？
 
     - 下班 xiàbān - finish work
 
+### 搬 bān (move, relocate, move (sth heavy/bulky) shift)
+
+1. 他搬了家
+
+2. 我是昨天搬来的
+
+3. 我下个月要搬家了
+
 ## C
 
 ### 差 - chà
