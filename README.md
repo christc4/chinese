@@ -45,6 +45,8 @@ Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
 你上班迟到了\
 nǐ shàngbān chídào le
 
+    - 迟到 chídào - late
+
 3. 你几时下班?\
 nǐ jǐshí xiàbān？
 
