@@ -414,6 +414,9 @@ zài běn zhōumò，hái bùnéng wánchéng zhègè xiàngmù，wǒ xīnlǐ q�
 rújīn shíjiān jiùshì jīnqián,rúguǒ nǐ juédé zhègè xiàngmù zhíde gàn,jiù cāodāobìgē,gǎnkuài shàngmǎ
 
 ### 洗手间 xǐshǒujiān
+
+保持餐厅和洗手间干净卫生。正确处理垃圾，保持办公台干燥、干净\
+
 ### 型号
 ## Y
 
