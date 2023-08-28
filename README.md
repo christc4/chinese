@@ -439,7 +439,9 @@ tánhuà de fànwéi hěn guǎng.
     - 范围 - fànwéi - range
     - 广 - guǎng - wide
 
-### 推荐 -
+### 推荐 - tuījiàn
+
+1. 我看了你推荐的动画
 ## X
 
 ### 闲聊 xian2liao2
