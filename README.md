@@ -36,8 +36,9 @@ Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
 
 ## B
 
-### 班
+### 班 bān (team, class, squad, work shift, ranking)
 
+1.
 你几时下班？
 今晚谁上班
 你上班迟到了。
