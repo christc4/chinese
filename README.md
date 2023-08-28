@@ -42,7 +42,8 @@ Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
 
     - 上班 shàngbān - go to work
 
-你上班迟到了。
+你上班迟到了\
+nǐ shàngbān chídào le
 
 3. 你几时下班?\
 nǐ jǐshí xiàbān？
