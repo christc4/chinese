@@ -40,7 +40,8 @@ Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
 
 1. 今晚谁上班
 
-    - 上班 - go to work
+    - 上班 shàngbān - go to work
+
 你上班迟到了。
 
 3. 你几时下班?\
