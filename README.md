@@ -177,7 +177,7 @@ zài kùn nán miàn qián, nǐ shì xuǎn zé jiān chí, háishì xuǎn zé f�
     - 选择 - xuǎn zé - to pick
     - 坚持 - jiān chí - to persevere
 
-### 富足
+### 富足 fùzú
 
 1. 过富足的生活
 
