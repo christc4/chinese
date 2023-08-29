@@ -80,7 +80,7 @@ Subj. + 比较 + Verb Phrase
 
 1. 我比较讨厌男人说脏话
 
-    - 讨厌 tǎoyàn - dislike; loathe
+    - 讨厌 tǎoyàn - dislike; [loathe](loathe)
     - 脏话 zànghuà - foul language
 
 4. 你比较喜欢用Gmail还是Hotmail
