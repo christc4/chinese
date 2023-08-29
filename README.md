@@ -114,13 +114,16 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 ### 繁华 fánhuá
 
 1. 这里是城市最繁华的地段，人口稠密\
-Zhè lǐ shì chéngshì zuì fánhuá de dìduàn, rénkǒu chóumì
+zhè lǐ shì chéngshì zuì fánhuá de dìduàn, rénkǒu chóumì
 
 2. 市中心是这个城市最繁华的地带\
-Shì zhōng xīn shì zhè ge chéngshì zuì fánhuá de dìdài
+shì zhōng xīn shì zhè ge chéngshì zuì fánhuá de dìdài
+
+    - 市中心 shì zhōng xīn - city center
+    - 地带 dìdài
 
 3. 繁华的北京城，高楼林立\
-Fánhuá de Běijīng chéng, gāo lóu lín lì
+fánhuá de Běijīng chéng, gāo lóu lín lì
 
 ### 反正
 
