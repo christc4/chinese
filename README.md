@@ -78,7 +78,9 @@ wǒ juédé zhège jiàgé bǐjiào guì
 
 Subj. + 比较 + Verb Phrase
 
-3. 我比较讨厌男人说脏话
+1. 我比较讨厌男人说脏话
+
+    - 讨厌
 
 ## C
 
