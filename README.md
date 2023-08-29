@@ -116,11 +116,14 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 1. 这里是城市最繁华的地段，人口稠密\
 zhè lǐ shì chéngshì zuì fánhuá de dìduàn, rénkǒu chóumì
 
+    - 地段 dìduàn - section, district
+    - 人口稠密 rénkǒu chóumì - populous
+
 2. 市中心是这个城市最繁华的地带\
 shì zhōng xīn shì zhè ge chéngshì zuì fánhuá de dìdài
 
     - 市中心 shì zhōng xīn - city center
-    - 地带 dìdài
+    - 地带 dìdài - zone
 
 3. 繁华的北京城，高楼林立\
 fánhuá de Běijīng chéng, gāo lóu lín lì
