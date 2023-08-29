@@ -128,7 +128,7 @@ shì zhōng xīn shì zhè ge chéngshì zuì fánhuá de dìdài
 3. 繁华的北京城，高楼林立\
 fánhuá de Běijīng chéng, gāo lóu lín lì
 
-### 反正
+### 反正 fǎn zhèng
 
 1. 我反正有空, 就你的时间吧\
 wǒ fǎn zhèng yǒu kòng, jiù nǐ de shí jiān ba
@@ -176,6 +176,14 @@ zài kùn nán miàn qián, nǐ shì xuǎn zé jiān chí, háishì xuǎn zé f�
     - 困难 - kùn nán - difficult circumstances
     - 选择 - xuǎn zé - to pick
     - 坚持 - jiān chí - to persevere
+
+### 富足
+
+1. 过富足的生活
+
+2. 那富足人岂不是欺压你们？
+
+3. 你永远不可能石富足的，聪明的或者美丽的。
 
 ## G
 
