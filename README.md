@@ -64,7 +64,21 @@ nǐ jǐshí xiàbān？
 
 ### 比较 bǐjiào
 
-1. 这个问题比较简单
+The adverb 比较 can be used to express quite;ratherl relatively.
+
+Subj. + 比较 + Adj.
+
+1. 这个问题比较简单\
+zhègè wèntí bǐjiàojiǎndān
+
+2. 我觉得这个价格比较贵\
+wǒ juédé zhège jiàgé bǐjiào guì
+
+比较 can also be used with psychological verbs
+
+Subj. + 比较 + Verb Phrase
+
+我比较他哦啊眼男人说脏话
 
 ## C
 
