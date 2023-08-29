@@ -83,6 +83,7 @@ Subj. + 比较 + Verb Phrase
     - 讨厌 tǎoyàn - dislike; loathe
     - 脏话 zànghuà - foul language
 
+4. 你比较喜欢用Gmail还是Hotmail
 ## C
 
 ### 差 - chà
