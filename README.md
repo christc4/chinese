@@ -383,7 +383,7 @@ Put 却 after subject
 
 ## R
 
-### 热闹 rènao
+### 热闹 rènao bustling with noise/excitement, lively
 
 1. 大街上热闹的不行
 
