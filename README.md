@@ -619,3 +619,4 @@ ni jin tian rang wo xue hui le hen duo zhong wen, gan ji bu jin
 9. 今天咖啡店不营业，休息一天。
 10. 今天咖啡店不营业，休息一天。
 11. 这些衣服洗了吗？
+12. 大家有什么意见
