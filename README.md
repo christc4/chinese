@@ -74,6 +74,8 @@ zhègè wèntí bǐjiàojiǎndān
 2. 我觉得这个价格比较贵\
 wǒ juédé zhège jiàgé bǐjiào guì
 
+    - 价格 jiàgé - price
+    - 贵
 比较 can also be used with psychological verbs
 
 Subj. + 比较 + Verb Phrase
