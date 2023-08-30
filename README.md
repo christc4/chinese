@@ -75,7 +75,7 @@ zhègè wèntí bǐjiàojiǎndān
 wǒ juédé zhège jiàgé bǐjiào guì
 
     - 价格 jiàgé - price
-    - 贵
+    - 贵 guì - expensive
 比较 can also be used with psychological verbs
 
 Subj. + 比较 + Verb Phrase
