@@ -609,3 +609,4 @@ ni jin tian rang wo xue hui le hen duo zhong wen, gan ji bu jin
 ## Basic phrases
 
 1. 他上课的时候常常睡觉。
+2. 你可以用我的手机给他打电话。
