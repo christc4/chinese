@@ -612,3 +612,4 @@ ni jin tian rang wo xue hui le hen duo zhong wen, gan ji bu jin
 2. 你可以用我的手机给他打电话。
 3. 你最喜欢做什么运动
 4. 这家宾馆是新的。
+5. 我觉得颜色还可以
