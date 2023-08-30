@@ -604,9 +604,11 @@ ni jin tian rang wo xue hui le hen duo zhong wen, gan ji bu jin
 
 
 
-
-
+医生建议我要多休息。
+保持乐观的心态很重要。
 ## Basic phrases
 
 1. 他上课的时候常常睡觉。
 2. 你可以用我的手机给他打电话。
+3. 你最喜欢做什么运动
+4. 这家宾馆是新的。
