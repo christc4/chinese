@@ -78,10 +78,11 @@ wǒ juédé zhège jiàgé bǐjiào guì
 
 Subj. + 比较 + Verb Phrase
 
-1. 我比较讨厌男人说脏话
+1. 我比较讨厌男人说脏话\
+Wǒ bǐjiào tǎoyàn nánrén shuō zānghuà
 
     - 讨厌 tǎoyàn - dislike; [loathe](loathe)
-    - 脏话 zànghuà - foul language
+    - 脏话 zānghuà - foul language
 
 4. 你比较喜欢用Gmail还是Hotmail
 ## C
