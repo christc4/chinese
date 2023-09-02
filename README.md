@@ -62,6 +62,16 @@ nǐ jǐshí xiàbān？
 
 4. 他搬到了我家附近
 
+### 帮忙 bāng máng
+
+明天如果你有空的话可以过来帮忙\
+míng tiān rú guǒ nǐ yǒu kōng de huà kě yǐ guò lái bāng máng
+
+### 包
+
+### 饱 full
+
+
 ### 比较 bǐjiào
 
 The adverb 比较 can be used to express quite;ratherl relatively.
