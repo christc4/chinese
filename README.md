@@ -116,7 +116,8 @@ dà xiàng yǒu cháng bí zi
 
 ### 必须 bìxū
 
-1. 你必须吃药
+1. 你必须吃药\
+nǐ bìxū chīyào
 ## C
 
 ### 差 - chà
