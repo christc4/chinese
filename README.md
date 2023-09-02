@@ -5,6 +5,7 @@
 ### 矮 ǎi
 
 1. 矮人们是伟大的铁匠\
+ǎi rénmen shì wěidà de tiějiàng
 
     - 伟大 - huge, great, grand
     - 铁匠 - blacksmith
