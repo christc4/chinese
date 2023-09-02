@@ -11,6 +11,7 @@
     - 铁匠 - blacksmith
 
 2. 她太矮了，看不到围墙外面\
+tā tài ǎi le, kàn bù dào wéi qiáng wàimiàn
 
 ### 安静 ānjìng
 
