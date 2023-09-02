@@ -102,7 +102,12 @@ Wǒ bǐjiào tǎoyàn nánrén shuō zānghuà
 
 1. 你比较喜欢用Gmail还是Hotmail
 
-### 鼻子
+### 鼻子 bízi nose
+
+1. 大象有长鼻子\
+dà xiàng yǒu cháng bí zǐ
+
+    - 长 cháng long
 ## C
 
 ### 差 - chà
