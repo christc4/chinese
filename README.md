@@ -31,7 +31,7 @@ Tā xiǎng ān wèi tā, què méi xiǎng dào fǎn ér shǐ tā gèng shāng x�
     - 使 - shǐ - to make to cause
     - 更 - gèng - more even more
 
-3. 这几天她心情不好，你要好好安慰她一下\
+3. 这几天她心情不好，你要好好安慰她一下\demand (economics)
 Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
 
 ## B
