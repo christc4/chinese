@@ -705,3 +705,6 @@ Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
 
 1. 她的性格变化很大，时而开朗，时而内向
 Tā de xìnggé biànhuà hěn dà, shí ér kāilǎng, shí ér nèixiàng.
+
+1. 作为心理学专业的人，你认为每个人都必须至少去一次心理治疗吗?"
+ Zuòwéi xīnlǐ xué zhuānyè de rén, nǐ rènwéi měi ge rén dōu bìxū zhìshǎo qù yī cì xīnlǐ zhìliáo ma?)
