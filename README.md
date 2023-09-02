@@ -694,3 +694,7 @@ Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
 
 - 敲响 qiāo xiǎng sound bell/raise alarm
 - 警钟 jǐng zhōng alarm bell
+
+
+
+### 无聊
