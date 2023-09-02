@@ -70,9 +70,11 @@ míng tiān rú guǒ nǐ yǒu kōng de huà kě yǐ guò lái bāng máng
 ### 包 bāo (many meanings)
 
 1. 那个包包看起来好贵
-    - 包包
+    - 包包 bāobāo bag; small purse
+
 ### 饱 bǎo full
 
+1, 我已经吃饱了，谢谢。
 
 ### 比较 bǐjiào
 
@@ -98,7 +100,9 @@ Wǒ bǐjiào tǎoyàn nánrén shuō zānghuà
     - 讨厌 tǎoyàn - dislike; [loathe](loathe)
     - 脏话 zānghuà - foul language
 
-4. 你比较喜欢用Gmail还是Hotmail
+1. 你比较喜欢用Gmail还是Hotmail
+
+### 鼻子
 ## C
 
 ### 差 - chà
