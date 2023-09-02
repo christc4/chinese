@@ -71,12 +71,13 @@ míng tiān rú guǒ nǐ yǒu kōng de huà kě yǐ guò lái bāng máng
 
 ### 包 bāo (many meanings)
 
-1. 那个包包看起来好贵
+1. 那个包包看起来好贵\
     - 包包 bāobāo bag; small purse
 
 ### 饱 bǎo full
 
-1, 我已经吃饱了，谢谢。
+1, 我已经吃饱了，谢谢\
+wǒ yǐjīng chībǎo le，xièxiè
 
 ### 比较 bǐjiào
 
