@@ -118,6 +118,8 @@ dà xiàng yǒu cháng bí zi
 
 1. 你必须吃药\
 nǐ bìxū chīyào
+
+### 变化
 ## C
 
 ### 差 - chà
