@@ -697,4 +697,11 @@ Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
 
 
 
-### 无聊
+### 无聊 wúliáo
+
+1. 整天呆在家里，你感到无聊透了
+
+### 变化
+
+1. 她的性格变化很大，时而开朗，时而内向
+Tā de xìnggé biànhuà hěn dà, shí ér kāilǎng, shí ér nèixiàng.
