@@ -102,7 +102,7 @@ Wǒ bǐjiào tǎoyàn nánrén shuō zānghuà
 
 1. 你比较喜欢用Gmail还是Hotmail
 
-### 比赛 bǐsài
+### 比赛 bǐsài match
 
 1. 你赢了比赛了吗？\
 nǐ yíng le bǐsài le ma？
@@ -114,6 +114,9 @@ dà xiàng yǒu cháng bí zi
 
     - 长 cháng long
 
+### 必须
+
+1. 你必须吃药
 ## C
 
 ### 差 - chà
