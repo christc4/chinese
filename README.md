@@ -660,3 +660,40 @@ ni jin tian rang wo xue hui le hen duo zhong wen, gan ji bu jin
 11. 这些衣服洗了吗？
 12. 大家有什么意见
 13. 他邀请我跳舞。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 过往 guòwǎng
+
+这些过往的对话对我来说敲响了警钟\
+Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
+
+- 敲响 qiāo xiǎng sound bell/raise alarm
+- 警钟 jǐng zhōng alarm bell
