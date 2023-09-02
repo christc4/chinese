@@ -69,7 +69,7 @@ míng tiān rú guǒ nǐ yǒu kōng de huà kě yǐ guò lái bāng máng
 
 ### 包
 
-### 饱 full
+### 饱 bǎo full
 
 
 ### 比较 bǐjiào
