@@ -114,7 +114,7 @@ dà xiàng yǒu cháng bí zi
 
     - 长 cháng long
 
-### 必须
+### 必须 bìxū
 
 1. 你必须吃药
 ## C
