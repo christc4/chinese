@@ -708,3 +708,6 @@ Tā de xìnggé biànhuà hěn dà, shí ér kāilǎng, shí ér nèixiàng.
 
 1. 作为心理学专业的人，你认为每个人都必须至少去一次心理治疗吗?"
  Zuòwéi xīnlǐ xué zhuānyè de rén, nǐ rènwéi měi ge rén dōu bìxū zhìshǎo qù yī cì xīnlǐ zhìliáo ma?)
+
+ 2. 在精神上帮助别人的最好方式是什么
+Zài jīngshén shàng bāngzhù biérén de zuì hǎo fāngshì shì shénme?
