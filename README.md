@@ -119,10 +119,13 @@ dà xiàng yǒu cháng bí zi
 1. 你必须吃药\
 nǐ bìxū chīyào
 
-### 变化 biànhuà
+### 变化 biànhuà - change intransitive verb
 
 1. 价格根据需求变化
+jiàgé gēnjù xūqiú biànhuà
 
+    - 根据 gēnjù - according to; based on; basis; foundation
+    - 需求 xūqiú - demand (economics)
 ## C
 
 ### 差 - chà
