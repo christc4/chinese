@@ -72,6 +72,8 @@ míng tiān rú guǒ nǐ yǒu kōng de huà kě yǐ guò lái bāng máng
 ### 包 bāo (many meanings)
 
 1. 那个包包看起来好贵\
+nàgè bāobāo kànqǐlái hǎo guì
+
     - 包包 bāobāo bag; small purse
 
 ### 饱 bǎo full
