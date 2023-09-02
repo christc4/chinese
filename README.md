@@ -105,7 +105,7 @@ Wǒ bǐjiào tǎoyàn nánrén shuō zānghuà
 ### 鼻子 bízi nose
 
 1. 大象有长鼻子\
-dà xiàng yǒu cháng bí zǐ
+dà xiàng yǒu cháng bí zi
 
     - 长 cháng long
 
