@@ -268,14 +268,6 @@ zhègè bāoguǒ guòzhòng yī gōngjīn
     - 包裹 bāoguǒ - parcel
     - 过重 guòzhòng - overweight (parcels)
 
-### 过往 guòwǎng
-
-这些过往的对话对我来说敲响了警钟\
-Zhèxiē guòwǎng de duìhuà duì wǒ lái shuō qiāo xiǎngle jǐngzhōng
-
-- 敲响 qiāo xiǎng sound bell/raise alarm
-- 警钟 jǐng zhōng alarm bell
-
 ## H
 
 ### 互相 - hù xiāng
