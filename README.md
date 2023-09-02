@@ -104,7 +104,9 @@ Wǒ bǐjiào tǎoyàn nánrén shuō zānghuà
 
 ### 比赛 bǐsài
 
-1. 你赢了比赛了吗？
+1. 你赢了比赛了吗？\
+nǐ yíng le bǐsài le ma？
+
 ### 鼻子 bízi nose
 
 1. 大象有长鼻子\
