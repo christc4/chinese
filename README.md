@@ -711,3 +711,17 @@ Tā de xìnggé biànhuà hěn dà, shí ér kāilǎng, shí ér nèixiàng.
 
  2. 在精神上帮助别人的最好方式是什么
 Zài jīngshén shàng bāngzhù biérén de zuì hǎo fāngshì shì shénme?
+
+
+
+
+
+
+
+
+
+
+1. 我给你写了一条消息
+
+当我开始学习汉语时，我观看了许多视频并练习了书写\
+dāng wǒ kāishǐ xuéxí hànyǔ shí, wǒ guānkàn le xǔduō shìpín bìng liànxí le shūxiě
