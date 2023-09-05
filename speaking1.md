@@ -12,3 +12,6 @@ shuō shíhuà, yǐqián xué yǔyán gǎnjué xiàng shì yī xiàng kǔ chāis
 
 在我上西班牙语课的时候，我是班上最差的学生，同学们总是笑我犯的错误
 Zài wǒ shàng xī bān yá yǔ kè de shíhòu, wǒ shì bān shàng zuì chà de xuéshēng, tóngxuémen zǒngshì xiào wǒ fàn de cuòwù
+
+听起来挺糟糕的，对吧
+tīng qǐlái tǐng zāogāo de, duì ba
