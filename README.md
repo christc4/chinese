@@ -367,7 +367,9 @@ gòng tóng de mù biāo bǎ dà jiā jǐn mì de lián xì zài yī qǐ
 
 ### 流利 liúlì fluent
 
-他操一口流利的英语
+他操一口流利的英语\
+tā cāo yīkǒu liúlì de yīngyǔ
+
 ### 旅游 lǚ yóu
 
 1. 我下个月要去韩国旅游\
@@ -740,7 +742,9 @@ Zài jīngshén shàng bāngzhù biérén de zuì hǎo fāngshì shì shénme?
 
 
 
+### Z
 
+## 宅女
 
 
 
