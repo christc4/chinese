@@ -722,6 +722,14 @@ Zài jīngshén shàng bāngzhù biérén de zuì hǎo fāngshì shì shénme?
 
 
 1. 我给你写了一条消息
+wǒ gěi nǐ xiě le yī tiáo xiāo xī
 
 当我开始学习汉语时，我观看了许多视频并练习了书写\
 dāng wǒ kāishǐ xuéxí hànyǔ shí, wǒ guānkàn le xǔduō shìpín bìng liànxí le shūxiě
+
+我会练习常用词汇的发音。不久之后，我很少说话 - 我忽略了口语。
+Certainly, here is the sentence in Pinyin:
+Wǒ huì liànxí chángyòng cíhuì de fāyīn. Bùjiǔ zhīhòu, wǒ hěn shǎo shuōhuà - wǒ hūlüè le kǒuyǔ
+
+但现在，我有一个非常耐心的语伴。尽管我的口语和听力水平不高，她仍然愿意帮助我
+Dàn xiànzài, wǒ yǒu yīgè fēicháng nàixīn de yǔbàn. Jǐnguǎn wǒ de kǒuyǔ hé tīnglì shuǐpíng bù gāo, tā réngrán yuànyì bāngzhù wǒ.
