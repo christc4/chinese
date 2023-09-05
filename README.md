@@ -157,16 +157,27 @@ fú tè jiā jiǔ, É luó sī de chuán tǒng jiǔ jīng yǐn liào
 
 ## D
 
-### 当
+### 当 dāng
 
 当 + Phrase （+ 时候),
 
 1. 当我看到这张照片，我就想起了你。
+dāng wǒ kàn dào zhè zhāng zhàopiàn, wǒ jiù xiǎng qǐle nǐ
+
 2. 当弟弟肚子饿的时候，他就会哭得很大声。
+dāng dìdì dùzi è de shíhou, tā jiù huì kū dé hěn dàshēng
+
 3. 当你遇到困难的时候，不要怕，来找我。
+dāng nǐ yù dào kùnnán de shíhou, bùyào pà, lái zhǎo wǒ
+
 4. 当我离开英国的时候，我只有十八岁。
+dāng wǒ líkāi Yīngguó de shíhou, wǒ zhǐyǒu shíbā suì
+
 5. 当他生气的时候，他就会去买衣服。
+dāng tā shēngqì de shíhou, tā jiù huì qù mǎi yīfú
+
 6. 当我吃太多的时候，肚子就会不舒服
+dāng wǒ chī tài duō de shíhou, dùzi jiù huì bù shūfu
 
 ### 得到 - dé dào
 
