@@ -9,3 +9,6 @@ wǒ xué xībānyá yǔ xué wǔ nián le, ránhòu dào xiànzài hái lián y�
 
 说实话，以前学语言感觉像是一项苦差事，我讨厌过它
 shuō shíhuà, yǐqián xué yǔyán gǎnjué xiàng shì yī xiàng kǔ chāishì, wǒ tǎoyàn guò tā
+
+在我上西班牙语课的时候，我是班上最差的学生，同学们总是笑我犯的错误
+Zài wǒ shàng xī bān yá yǔ kè de shíhòu, wǒ shì bān shàng zuì chà de xuéshēng, tóngxuémen zǒngshì xiào wǒ fàn de cuòwù
