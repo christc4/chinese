@@ -157,6 +157,11 @@ fú tè jiā jiǔ, É luó sī de chuán tǒng jiǔ jīng yǐn liào
 
 ## D
 
+### 当
+
+```当 + Phrase （+ 时候),
+```
+
 ### 得到 - dé dào
 
 1. 他很想得到这个工作\
