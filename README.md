@@ -159,8 +159,8 @@ fú tè jiā jiǔ, É luó sī de chuán tǒng jiǔ jīng yǐn liào
 
 ### 当
 
-```当 + Phrase （+ 时候),
-```
+当 + Phrase （+ 时候),
+
 
 ### 得到 - dé dào
 
