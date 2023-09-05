@@ -762,3 +762,10 @@ Wǒ huì liànxí chángyòng cíhuì de fāyīn. Bùjiǔ zhīhòu, wǒ hěn sh�
 
 但现在，我有一个非常耐心的语伴。尽管我的口语和听力水平不高，她仍然愿意帮助我
 Dàn xiànzài, wǒ yǒu yīgè fēicháng nàixīn de yǔbàn. Jǐnguǎn wǒ de kǒuyǔ hé tīnglì shuǐpíng bù gāo, tā réngrán yuànyì bāngzhù wǒ.
+
+
+我学西班牙语学五年了，然后到现在还连一句话都不会说
+Wǒ xué Xībānyá yǔ xué wǔ nián le, ránhòu dào xiànzài hái lián yījù huà dōu bù huì shuō
+
+
+非常感谢你给我这样的机会，真的
