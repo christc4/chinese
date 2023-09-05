@@ -18,3 +18,5 @@ tīng qǐlái tǐng zāogāo de, duì ba
 
 其实，我有一个好的记忆。我的西班牙语老师和我谈了很长时间关于他的童年、西班牙政府、历史和战争\
 Qíshí, wǒ yǒu yīgè hǎo de jìyì. Wǒ de xī bān yá yǔ lǎoshī hé wǒ tánle hěn cháng shíjiān guānyú tā de tóngnián, xī bān yá zhèngfǔ, lìshǐ hé zhànzhēng
+
+我认为人们搬到其他国家学习新语言的原因之一，是为了忘记过去的事情
