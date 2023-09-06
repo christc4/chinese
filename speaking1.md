@@ -24,3 +24,9 @@ Wǒ rènwéi rénmen bān dào qítā guójiā xuéxí xīn yǔyán de yuányī 
 
 有一天，我想访问台湾或中国
 yǒu yītiān, wǒ xiǎng fǎngwèn Táiwān huò zhōngguó
+
+我猜他决定英国是最好的选择，因为那就是我长大的地方"
+Wǒ cāi tā juédìng Yīngguó shì zuì hǎo de xuǎnzé, yīnwèi nà jiùshì wǒ zhǎng dà de dìfāng
+
+你自己去过很多国家，你想搬到另一个国家吗？
+Nǐ zìjǐ qùguò hěn duō guójiā, nǐ xiǎng bān dào lìng yīgè guójiā ma?
