@@ -20,3 +20,6 @@ tīng qǐlái tǐng zāogāo de, duì ba
 Qíshí, wǒ yǒu yīgè hǎo de jìyì. Wǒ de xī bān yá yǔ lǎoshī hé wǒ tánle hěn cháng shíjiān guānyú tā de tóngnián, xī bān yá zhèngfǔ, lìshǐ hé zhànzhēng
 
 我认为人们搬到其他国家学习新语言的原因之一，是为了忘记过去的事情
+Wǒ rènwéi rénmen bān dào qítā guójiā xuéxí xīn yǔyán de yuányī zhī yī, shì wèile wàngjì guòqù de shìqíng)
+
+有一天，我想访问台湾或中国
