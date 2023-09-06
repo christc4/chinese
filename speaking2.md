@@ -17,3 +17,4 @@ Nǐ rènwéi yīgè háizi chéngzhǎng de dìfāng huì duì tāmen chǎnshēng
 (Nǐ de yìjiàn hěn yǒuqù, xièxiè nǐ.
 
 你喜欢农村还是城市
+nǐ xǐhuān nóngcūn háishì chéngshì
