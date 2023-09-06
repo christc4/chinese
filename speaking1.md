@@ -26,7 +26,7 @@ Wǒ rènwéi rénmen bān dào qítā guójiā xuéxí xīn yǔyán de yuányī 
 yǒu yītiān, wǒ xiǎng fǎngwèn Táiwān huò zhōngguó
 
 当我爸爸年轻的时候，他访问过许多国家，如：泰国、印度、苏格兰、美国、香港和英国"\
-Dāng wǒ bàba niánqīng de shíhòu, tā fǎngwèn guò xǔduō guójiā, rú: Tàiguó, Yìndù, Sūgélán, Měiguó, Xiānggǎng hé Yīngguó
+dāng wǒ bàba niánqīng de shíhòu, tā fǎngwèn guò xǔduō guójiā, rú: Tàiguó, Yìndù, Sūgélán, Měiguó, Xiānggǎng hé Yīngguó
 
 我猜他决定英国是最好的选择，因为那就是我长大的地方"\
 Wǒ cāi tā juédìng Yīngguó shì zuì hǎo de xuǎnzé, yīnwèi nà jiùshì wǒ zhǎng dà de dìfāng
