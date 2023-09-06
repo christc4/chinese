@@ -23,3 +23,4 @@ Qíshí, wǒ yǒu yīgè hǎo de jìyì. Wǒ de xī bān yá yǔ lǎoshī hé w�
 Wǒ rènwéi rénmen bān dào qítā guójiā xuéxí xīn yǔyán de yuányī zhī yī, shì wèile wàngjì guòqù de shìqíng)
 
 有一天，我想访问台湾或中国
+yǒu yītiān, wǒ xiǎng fǎngwèn Táiwān huò zhōngguó
