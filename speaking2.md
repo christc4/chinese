@@ -12,3 +12,6 @@ Rán'ér, yīxiē háizi zài měilì de gōngyuán hé sēnlín pángbiān zhǎ
 
 你认为一个孩子成长的地方会对他们产生心理影响吗
 Nǐ rènwéi yīgè háizi chéngzhǎng de dìfāng huì duì tāmen chǎnshēng xīnlǐ yǐngxiǎng ma?
+
+你的意见很有趣，谢谢你。"
+(Nǐ de yìjiàn hěn yǒuqù, xièxiè nǐ.
