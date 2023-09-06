@@ -15,3 +15,5 @@ Nǐ rènwéi yīgè háizi chéngzhǎng de dìfāng huì duì tāmen chǎnshēng
 
 你的意见很有趣，谢谢你。"
 (Nǐ de yìjiàn hěn yǒuqù, xièxiè nǐ.
+
+你喜欢农村还是城市
