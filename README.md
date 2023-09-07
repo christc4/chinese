@@ -202,7 +202,9 @@ duàn liàn duì shēn tǐ dài lái hěn duō hǎo chù
 
     - 好处- hǎo chù
 
-### 多亏 -
+### 多亏 - duōkuī - thanks to
+
+
 ## E
 
 ### 饿- è
