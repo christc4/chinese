@@ -207,7 +207,8 @@ duàn liàn duì shēn tǐ dài lái hěn duō hǎo chù
 1. 多亏了你的帮助，我才能学到这么多词汇\
 duōkuīle nǐ de bāngzhù, wǒ cáinéng xué dào zhème duō cíhuì
 
-2. 多亏你帮我，我才能这么快做完
+2. 多亏你帮我，我才能这么快做完\
+duōkuī nǐ bāng wǒ, wǒ cáinéng zhème kuài zuò wán
 
 多亏 你 的 伞 ，我 才 没 淋湿
 
