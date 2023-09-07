@@ -752,10 +752,11 @@ Zài jīngshén shàng bāngzhù biérén de zuì hǎo fāngshì shì shénme?
 
 ## 长大 zhǎngdà grow up
 
-1. 他在澳大利亚长大
+1. 他在澳大利亚长大\
 tā zài Àodàlìyà zhǎngdà
 
-2. 他的孩子们长大了
+2. 他的孩子们长大了\
+tā de háizi men zhǎngdà le
 
 ## 宅女/男 zhái nǚ otaku
 
