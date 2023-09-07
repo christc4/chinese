@@ -542,6 +542,9 @@ shòu dào nǐ de yāoqǐng，wǒ gǎndào shòu chǒng ruò jīng。
     - 受到 - shòu dào - receive praise
     - 邀请 - yāoqǐng - invitation
 
+## 首先
+
+
 ## 算不算 - suàn bù suàn
 
 1. 我会假笑，还会说谎，这算不算特长?
