@@ -213,11 +213,11 @@ duōkuī nǐ bāng wǒ, wǒ cáinéng zhème kuài zuò wán
 多亏你的伞 ，我才没淋湿\
 duōkuī nǐ de sǎn, wǒ cái méi línshī
 
-这件事情多亏了你的提醒，不然我肯定忘了
+这件事情多亏了你的提醒，不然我肯定忘了\
+zhè jiàn shìqíng duōkuīle nǐ de tíxǐng, bùrán wǒ kěndìng wàngle
 
-
-多亏了你的建议，不然我真不知道怎么办
-
+多亏了你的建议，不然我真不知道怎么办\
+duōkuīle nǐ de jiànyì, bùrán wǒ zhēn bù zhīdào zěnme bàn
 ## E
 
 ### 饿- è
