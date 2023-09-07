@@ -544,6 +544,9 @@ shòu dào nǐ de yāoqǐng，wǒ gǎndào shòu chǒng ruò jīng。
 
 ## 首先 shǒuxiān first of all
 
+1. 如果你想在中国工作，首先要学好汉语
+
+2. 要想成功，你首先应该有一个好身体。
 
 ## 算不算 - suàn bù suàn
 
@@ -747,6 +750,7 @@ Zài jīngshén shàng bāngzhù biérén de zuì hǎo fāngshì shì shénme?
 
 ### Z
 
+## 长大
 ## 宅女/男 zhái nǚ otaku
 
 
