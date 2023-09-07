@@ -145,6 +145,13 @@ wǒ duì wǒ jīntiān de biǎoyǎn bù mǎnyì
 ## C
 
 ### 才 - cái
+
+Three uses: only; just now; not until, emphasis
+
+才 meaning only
+
+1. 我才有两个
+2. 他才来过一次
 ### 差 - chà
 
 1. 我的中文听力很差\
