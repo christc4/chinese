@@ -140,6 +140,7 @@ Gǎnxiè nín de zhīchí, wǒ yào biǎoshì chéngzhì de gǎnxiè.
 ### 表演 biǎoyǎn
 
 1. 我对我今天的表演不满意
+
 ## C
 
 ### 差 - chà
