@@ -163,7 +163,9 @@ chúle yīngyǔ, wǒ yě huì shuō hànyǔ hé mèngjiālāyǔ
 
 1. 除了运动以外， 你还有什么爱好？
 
-    - 以外  - apart from；other than; except for;
+    - 以外 yǐwài - apart from；other than; except for;
+
+    -
 ### 传统 chuán tǒng
 
 1. 伏特加，俄罗斯的传统酒精饮料\
