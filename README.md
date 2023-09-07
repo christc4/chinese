@@ -134,12 +134,13 @@ jiàgé gēnjù xūqiú biànhuà
 
 ### 表示 biǎoshì
 
-1. 感谢您的支持，我要表示诚挚的感谢
-Gǎnxiè nín de zhīchí, wǒ yào biǎoshì chéngzhì de gǎnxiè.
+1. 感谢您的支持，我要表示诚挚的感谢\
+Gǎnxiè nín de zhīchí, wǒ yào biǎoshì chéngzhì de gǎnxiè
 
 ### 表演 biǎoyǎn
 
-1. 我对我今天的表演不满意
+1. 我对我今天的表演不满意\
+wǒ duì wǒ jīntiān de biǎoyǎn bù mǎnyì
 
 ## C
 
