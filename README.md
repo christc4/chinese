@@ -755,6 +755,8 @@ Zài jīngshén shàng bāngzhù biérén de zuì hǎo fāngshì shì shénme?
 1. 他在澳大利亚长大
 tā zài Àodàlìyà zhǎngdà
 
+2. 他的孩子们长大了
+
 ## 宅女/男 zhái nǚ otaku
 
 
