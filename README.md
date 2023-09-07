@@ -204,6 +204,8 @@ duàn liàn duì shēn tǐ dài lái hěn duō hǎo chù
 
 ### 多亏 - duōkuī - thanks to
 
+多亏了您的帮助，我才能学到这么多词汇
+
 
 ## E
 
