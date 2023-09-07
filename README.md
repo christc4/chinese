@@ -132,7 +132,7 @@ jiàgé gēnjù xūqiú biànhuà
     - 根据 gēnjù - according to; based on; basis; foundation
     - 需求 xūqiú - demand (economics)
 
-### 表示
+### 表示 biǎoshì
 
 1. 感谢您的支持，我要表示诚挚的感谢
 ## C
