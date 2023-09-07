@@ -161,12 +161,12 @@ shēng huó měi tiān dōu chōng mǎn xī wàng.
 1. 除了英语，我也会说汉语和孟加拉语\
 chúle yīngyǔ, wǒ yě huì shuō hànyǔ hé mèngjiālāyǔ
 
-#### 传统 chuán tǒng
+### 传统 chuán tǒng
 
-1. 伏特加酒，俄罗斯的传统酒精饮料\
+1. 伏特加，俄罗斯的传统酒精饮料\
 fú tè jiā jiǔ, É luó sī de chuán tǒng jiǔ jīng yǐn liào
 
-    - 伏特加酒 - fú tè jiā jiǔ - vodka
+    - 伏特加 - fú tè jiā - vodka
     - 俄罗斯 - É luó sī - Russia
     - 传统 - chuán tǒng - tradition
     - 酒精饮料 - jiǔ jīng yǐn liào - liquor
