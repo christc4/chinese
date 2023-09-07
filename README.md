@@ -542,7 +542,7 @@ shòu dào nǐ de yāoqǐng，wǒ gǎndào shòu chǒng ruò jīng。
     - 受到 - shòu dào - receive praise
     - 邀请 - yāoqǐng - invitation
 
-## 首先
+## 首先 shǒuxiān
 
 
 ## 算不算 - suàn bù suàn
