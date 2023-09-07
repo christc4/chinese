@@ -156,7 +156,7 @@ shēng huó měi tiān dōu chōng mǎn xī wàng.
 
     - 充满 - chōng mǎn - full of; brimming with
 
-### **除了** - chúle - besides; apart from; in addition to; except (for)
+### 除了 - chúle - besides; apart from; in addition to; except (for)
 
 1. 除了英语，我也会说汉语和孟加拉语\
 chúle yīngyǔ, wǒ yě huì shuō hànyǔ hé mèngjiālāyǔ
