@@ -186,6 +186,7 @@ fú tè jiā jiǔ, É luó sī de chuán tǒng jiǔ jīng yǐn liào
 
 从零开始
 
+创业要从零开始，什么事情都要自己做。
 ## D
 
 ### 当 dāng
