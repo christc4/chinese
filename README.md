@@ -184,6 +184,8 @@ fú tè jiā jiǔ, É luó sī de chuán tǒng jiǔ jīng yǐn liào
     - 传统 - chuán tǒng - tradition
     - 酒精饮料 - jiǔ jīng yǐn liào - liquor
 
+从零开始
+
 ## D
 
 ### 当 dāng
