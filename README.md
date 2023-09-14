@@ -419,9 +419,11 @@ gòng tóng de mù biāo bǎ dà jiā jǐn mì de lián xì zài yī qǐ
 1. 你觉得我们说中文时候你是不是另外的人\
 nǐ juéde wǒmen shuō zhōngwén shíhòu nǐ shì bùshì lìngwài de rén
 
-2. 这件衬衫我不喜欢。把另外一件给我看一下。
+2. 这件衬衫我不喜欢。把另外一件给我看一下\
+nà shì wǒ zài zhèlǐ de lìngwài yīgè lǐyóu
 
-3. 那是我在这里的另外一个理由。
+3. 那是我在这里的另外一个理由\
+nà shì wǒ zài zhèlǐ de lìngwài yīgè lǐyóu
 
 ### 流利 liúlì fluent
 
