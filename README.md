@@ -358,6 +358,11 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 
 ## J
 
+### 建议 jiànyì - opinion
+
+1. 医生的建议是什么\
+yīshēng de jiànyì shì shénme
+
 ### 接受 jiē shòu
 
 1. 我们的老师从来不接受同学们的礼物\
