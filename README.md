@@ -363,6 +363,9 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 1. 健康石幸福生活之本\
 jiànkāng shí xìngfú shēnghuó zhī běn
 
+    - 幸福 xìngfú - happiness
+    - 本 běn - root
+
 ### 建议 jiànyì - suggestion
 
 1. 医生的建议是什么\
