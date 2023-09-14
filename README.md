@@ -358,7 +358,10 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 
 ## J
 
-### 健康
+### 健康 jiànkāng - health; physique
+
+1. 健康石幸福生活之本\
+jiànkāng shí xìngfú shēnghuó zhī běn
 
 ### 建议 jiànyì - suggestion
 
