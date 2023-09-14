@@ -364,7 +364,7 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 jiànkāng shí xìngfú shēnghuó zhī běn
 
     - 幸福 xìngfú - happiness
-    - 本 běn - root
+    - 之本 zhī běn - root
 
 ### 建议 jiànyì - suggestion
 
