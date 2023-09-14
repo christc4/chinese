@@ -358,7 +358,7 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 
 ## J
 
-### 建议 jiànyì - opinion
+### 建议 jiànyì - suggestion
 
 1. 医生的建议是什么\
 yīshēng de jiànyì shì shénme
