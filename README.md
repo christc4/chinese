@@ -414,7 +414,7 @@ gòng tóng de mù biāo bǎ dà jiā jǐn mì de lián xì zài yī qǐ
     - 目标 mùbiāo - target, goal
     - 紧密 jǐn mì - inseperably close
 
-### 另外 lìngwài
+### 另外 lìngwài - additional; besides; seperate; other; moreover; furthermore
 
 1. 你觉得我们说中文时候你是不是另外的人\
 nǐ juéde wǒmen shuō zhōngwén shíhòu nǐ shì bùshì lìngwài de rén
