@@ -422,8 +422,8 @@ nǐ juéde wǒmen shuō zhōngwén shíhòu nǐ shì bùshì lìngwài de rén
 2. 这件衬衫我不喜欢。把另外一件给我看一下\
 nà shì wǒ zài zhèlǐ de lìngwài yīgè lǐyóu
 
-3. 那是我在这里的另外一个理由\
-nà shì wǒ zài zhèlǐ de lìngwài yīgè lǐyóu
+3. 这件衬衫我不喜欢。把另外一件给我看一下\
+zhè jiàn chènshān wǒ bù xǐhuān. bǎ lìngwài yī jiàn gěi wǒ kàn yīxià
 
 ### 流利 liúlì fluent
 
