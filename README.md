@@ -690,7 +690,8 @@ wǒ zhǎo dào wǒ de shēng huó le
 1. 我只买了一件衣服\
 wǒ zhǐ mǎi le yījiàn yīfú
 
-### 准备好了
+### 准备好了 zhǔn bèi hǎo le - to be ready
+
 ## 总 - zǒng
 
 - Used with 不 and 没, carries tone of speculation, judgement or suggestion. Often ends with 吧
