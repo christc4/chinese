@@ -211,6 +211,9 @@ dāng tā shēngqì de shíhou, tā jiù huì qù mǎi yīfú
 6. 当我吃太多的时候，肚子就会不舒服\
 dāng wǒ chī tài duō de shíhou, dùzi jiù huì bù shūfu
 
+1. 你长大之后想当什么
+
+
 ### 得到 - dé dào
 
 1. 他很想得到这个工作\
