@@ -886,4 +886,9 @@ episode 3
 zán shì bùshì ràng rén gěi fàng gēzi
 
 2. 如何解决女生放鸽子的行为\
+
 rúhé jiějué nǚshēng fàng gēzi de xíngwéi？
+
+    - 如何 rúhé - how; what way; what
+    - 解决 jiějué - to settle (a dispute); to resolve; to solve
+    - 行为 xíngwéi？
