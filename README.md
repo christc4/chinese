@@ -880,7 +880,7 @@ episode 3
 3. 可以见一面吗
 4. 你拨打的电话一关己
 
-### 放鸽子 fànggēzi
+### 放鸽子 fànggēzi - to stand sb up; to bail on sb
 
 7. 咱是不是让人给放鸽子\
 zán shì bùshì ràng rén gěi fàng gēzi
