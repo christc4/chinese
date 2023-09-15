@@ -882,5 +882,8 @@ episode 3
 
 ### 放鸽子 fànggēzi - to stand sb up; to bail on sb
 
-7. 咱是不是让人给放鸽子\
+1. 咱是不是让人给放鸽子\
 zán shì bùshì ràng rén gěi fàng gēzi
+
+2. 如何解决女生放鸽子的行为\
+rúhé jiějué nǚshēng fàng gēzi de xíngwéi？
