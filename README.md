@@ -36,6 +36,12 @@ Tā xiǎng ān wèi tā, què méi xiǎng dào fǎn ér shǐ tā gèng shāng x�
 3. 这几天她心情不好，你要好好安慰她一下\demand (economics)
 Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
 
+### 安装 ān zhuāng - install; mount
+
+1. 请按装linux
+
+2. 他们在办公室安装了一台自动贩卖机\
+tāmen zài bàngōngshì ānzhuāngle yī tái zìdòng fànmàijī.
 ## B
 
 ### 班 bān (team, class, squad, work shift, ranking)
