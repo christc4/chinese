@@ -650,6 +650,10 @@ shòu dào nǐ de yāoqǐng，wǒ gǎndào shòu chǒng ruò jīng。
 Colloquial usage
 
 1. 顺便说一下，我最近搬家了
+
+2. 顺便问一下，你下周什么时候回来
+
+3. 顺便说一下，电脑已经修好了
 ### 算不算 - suàn bù suàn
 
 1. 我会假笑，还会说谎，这算不算特长?
