@@ -43,6 +43,9 @@ Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
 2. 他们在办公室安装了一台自动贩卖机\
 tāmen zài bàngōngshì ānzhuāngle yī tái zìdòng fànmàijī
 
+    - 自动 zìdòng  - automatic
+    - 贩卖及 fànmàijī - vending machine
+
 ## B
 
 ### 班 bān (team, class, squad, work shift, ranking)
