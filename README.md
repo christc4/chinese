@@ -41,7 +41,8 @@ Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
 1. 请按装linux
 
 2. 他们在办公室安装了一台自动贩卖机\
-tāmen zài bàngōngshì ānzhuāngle yī tái zìdòng fànmàijī.
+tāmen zài bàngōngshì ānzhuāngle yī tái zìdòng fànmàijī
+
 ## B
 
 ### 班 bān (team, class, squad, work shift, ranking)
