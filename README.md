@@ -627,13 +627,15 @@ shòu dào nǐ de yāoqǐng，wǒ gǎndào shòu chǒng ruò jīng。
     - 受到 - shòu dào - receive praise
     - 邀请 - yāoqǐng - invitation
 
-## 首先 shǒuxiān first of all
+### 首先 shǒuxiān first of all
 
 1. 如果你想在中国工作，首先要学好汉语
 
 2. 要想成功，你首先应该有一个好身体。
 
-## 算不算 - suàn bù suàn
+### 顺便
+
+### 算不算 - suàn bù suàn
 
 1. 我会假笑，还会说谎，这算不算特长?
 
