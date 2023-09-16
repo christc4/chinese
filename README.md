@@ -661,7 +661,7 @@ wǒ kàn le nǐ tuījiàn de dònghuà
 
 - 有时我们在一起闲聊\
 yǒu shí wǒmen zài yī qǐ xián liáo
-
+有时我们在一起闲聊过 past tense
 ### 项目 - xiàngmù
 
 1. 在本周末，还不能完成这个项目，我心里七上八下的\
@@ -778,7 +778,7 @@ ni jin tian rang wo xue hui le hen duo zhong wen, gan ji bu jin
 12. 大家有什么意见
 13. 他邀请我跳舞。
 
-
+有时我们在一起闲聊过
 
 
 
