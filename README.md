@@ -647,6 +647,9 @@ shòu dào nǐ de yāoqǐng，wǒ gǎndào shòu chǒng ruò jīng。
 
 6. 你见他的时候顺便问一下他周末来不来
 
+Colloquial usage
+
+1. 顺便说一下，我最近搬家了
 ### 算不算 - suàn bù suàn
 
 1. 我会假笑，还会说谎，这算不算特长?
