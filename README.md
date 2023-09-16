@@ -928,3 +928,39 @@ rúhé jiějué nǚshēng fàng gēzi de xíngwéi？
 
 我记得在高中的时候有一位中文老师
     https://youtu.be/M6eohmxrahg?si=H248pzy-yTdUBe6u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   顺便uses
+    1、Jiă: Máfan qiānshōu nín de kuàidì.
+甲：麻烦签收您的快递。
+A: Please sign for your express delivery.
+
+Yǐ: Xièxie. Shùnbiàn wèn yíxià, wǒ lìngwài yí gè kuàidì dàgài shénme shíhou néng sòngdao?
+乙：谢谢。顺便问一下，我另外一个快递大概什么时候能送到？
+B: Thank you. By the way, when will I receive my other one?
+
+2、Jiă: Yín háng? Wǎng qián zǒu wǔbǎi mǐ jiù yǒu yí ge.
+甲：银行？往前走500米就有一个。
+A: The bank? There is one you go ahead for five hundred meters.
+
+Yǐ: Xièxie. Shùnbiàn wèn yíxià, yínháng yìbān jǐ diǎn guānmén?
+乙：谢谢。顺便问一下，银行一般几点关门？
+B: Thank you. Buy the way, when does the bank close generally
