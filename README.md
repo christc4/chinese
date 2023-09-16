@@ -892,3 +892,7 @@ rúhé jiějué nǚshēng fàng gēzi de xíngwéi？
     - 如何 rúhé - how; what way; what
     - 解决 jiějué - to settle (a dispute); to resolve; to solve
     - 行为 xíngwéi？
+
+3. 如何应对跟女人约会时，被女人放鸽子！
+
+4. 怎么不高兴了？我被放鸽子了
