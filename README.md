@@ -375,7 +375,7 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 
 ## J
 
-### 假如
+### 假如 jiǎ rú
 
 1. 假如你的成绩再好一点儿，你就能申请北大了\
 jiǎrú nǐ de chéngjī zài hǎo yīdiǎn er, nǐ jiù néng shēnqǐng běidàle
