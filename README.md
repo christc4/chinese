@@ -383,7 +383,7 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 
 2. 假如我是你，我就戒烟\
 
-    - 戒烟 jièyān - stop smoking
+    - 戒烟 jièyān - give up smoking
 
 3. 假如你的女朋友不爱你，你们旧分手吧\
 
