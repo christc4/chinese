@@ -387,7 +387,7 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 
 3. 假如你的女朋友不爱你，你们就分手吧\
 
-    - 分手
+    - 分手 fēnshǒu - to break up
 
 4. 假如有一点机会，你就会辞去现在的工作\
 
