@@ -537,8 +537,17 @@ rì běn rén dǎ zhōngguó de shí hòu, zhōngguó lǎo bǎi xìng xīn lǐ z
 有一次，我的数学考试考的不是很好，回到家里心里总是七上八下怕妈妈打我。
 
 
+
 ### 前天 qiántiān - day before yesterday
 
+他前天到北京的\
+tā qiántiān dào běijīng de
+
+假如今天是星期五，前天就是星期三\
+jiǎrú jīntiān shì xīngqíwǔ, qiántiān jiùshì xīngqísān
+
+我前天收到了你的信\
+wǒ qiántiān shōudào le nǐ de xìn
 
 ### 倾盆大雨 qīng pén dà yǔ
 
