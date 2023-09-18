@@ -537,7 +537,9 @@ rì běn rén dǎ zhōngguó de shí hòu, zhōngguó lǎo bǎi xìng xīn lǐ z
 有一次，我的数学考试考的不是很好，回到家里心里总是七上八下怕妈妈打我。
 
 
-### 前天
+### 前天 qiántiān - day before yesterday
+
+
 ### 倾盆大雨 qīng pén dà yǔ
 
 1. 天空突然下起了倾盆大雨\
