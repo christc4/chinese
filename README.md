@@ -398,13 +398,16 @@ jiǎrú yǒu yīdiǎn jīhuì, nǐ jiù huì cí qù xiànzài de gōngzuò
     - 辞去 cíqù - to quit
 
 5. 假如这话是真的，我们也要考虑两天\
+jiǎrú zhè huà shì zhēn de, wǒmen yě yào kǎolǜ liǎng tiān
 
 6. 假如一定要去的话，他就去\
+jiǎrú yīdìng yào qù de huà, tā jiù qù
 
 7. 假如我们又见面了，你还会记得我吗\
+jiǎrú wǒmen yòu jiànmiàn le, nǐ hái huì jìdé wǒ ma
 
-    - 又 - again
-    - 见面 - to meet; to see each other
+    - 又 yòu - again
+    - 见面 jiànmiàn - to meet; to see each other
 
 ### 健康 jiànkāng - health; physique
 
