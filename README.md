@@ -391,12 +391,16 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 
 4. 假如有一点机会，你就会辞去现在的工作\
 
-    - 辞去 cíqù
+    - 辞去 cíqù - to quit
+
 5. 假如这话是真的，我们也要考虑两天\
 
 6. 假如一定要去的话，他就去\
 
 7. 假如我们又见面了，你还会记得我吗\
+
+    - 又 - again
+    - 见面 - to meet; to see each other
 
 ### 健康 jiànkāng - health; physique
 
