@@ -265,7 +265,10 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 
 ## F
 
-### 发生
+### 发生fāshēng
+昨天发生了一件有趣的事。
+zuótiān fāshēngle yī jiàn yǒuqù de shì
+
 ### 繁华 fánhuá
 
 1. 这里是城市最繁华的地段，人口稠密\
