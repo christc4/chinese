@@ -378,18 +378,22 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 ### 假如
 
 1. 假如你的成绩再好一点儿，你就能申请北大了\
+jiǎrú nǐ de chéngjī zài hǎo yīdiǎn er, nǐ jiù néng shēnqǐng běidàle
 
     - 成绩 chéngjī - grades
 
 2. 假如我是你，我就戒烟\
+jiǎrú wǒ shì nǐ, wǒ jiù jièyān
 
     - 戒烟 jièyān - give up smoking
 
 3. 假如你的女朋友不爱你，你们就分手吧\
+jiǎrú nǐ de nǚ péngyǒu bù ài nǐ, nǐmen jiù fēnshǒu ba
 
     - 分手 fēnshǒu - to break up
 
 4. 假如有一点机会，你就会辞去现在的工作\
+jiǎrú yǒu yīdiǎn jīhuì, nǐ jiù huì cí qù xiànzài de gōngzuò
 
     - 辞去 cíqù - to quit
 
