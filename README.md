@@ -412,7 +412,7 @@ jiǎrú wǒmen yòu jiànmiàn le, nǐ hái huì jìdé wǒ ma
 ### 健康 jiànkāng - health; physique
 
 1. 健康是幸福生活之本\
-jiànkāng shí xìngfú shēnghuó zhī běn
+jiànkāng shì xìngfú shēnghuó zhī běn
 
     - 幸福 xìngfú - happiness
     - 之本 zhī běn - root
