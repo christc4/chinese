@@ -736,6 +736,7 @@ tánhuà de fànwéi hěn guǎng.
     - 范围 - fànwéi - range
     - 广 - guǎng - wide
 
+### 突发奇想
 ### 推荐 - tuījiàn
 
 1. 我看了你推荐的动画\
