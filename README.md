@@ -697,7 +697,8 @@ shòu dào nǐ de yāoqǐng，wǒ gǎndào shòu chǒng ruò jīng。
 
 ### 熟悉 shúxī
 
-1. 我们彼此很熟悉
+1. 我们彼此很熟悉\
+wǒmen bǐcǐ hěn shúxī
 
 ### 顺便 shùnbiàn
 
