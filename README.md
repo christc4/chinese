@@ -700,6 +700,7 @@ shòu dào nǐ de yāoqǐng，wǒ gǎndào shòu chǒng ruò jīng。
 1. 我们彼此很熟悉\
 wǒmen bǐcǐ hěn shúxī
 
+    - 彼此 bǐcǐ - each other; one another
 ### 顺便 shùnbiàn
 
 1. 你去买早饭的时候顺便帮我带杯咖啡吧
