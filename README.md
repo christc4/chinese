@@ -711,7 +711,9 @@ wǒ chūláizhàdào，bù shúxī zhèlǐ de qíngkuàng
 
     - 情况 qíngkuàng - circumstances; state of affairs; situation
 
-4. 这个问题很简单，我已经很熟悉了
+4. 这个问题很简单，我已经很熟悉了\
+zhègè wèntí hěn jiǎndān，wǒ yǐjīng hěn shúxī le
+
 ### 顺便 shùnbiàn
 
 1. 你去买早饭的时候顺便帮我带杯咖啡吧
