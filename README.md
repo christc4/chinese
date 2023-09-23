@@ -294,9 +294,10 @@ shì zhōng xīn shì zhè ge chéngshì zuì fánhuá de dìdài
 3. 繁华的北京城，高楼林立\
 fánhuá de Běijīng chéng, gāo lóu lín lì
 
-### 翻开
+### 翻开 fānkāi
 
-1. 这本小说引人入胜,我一翻开就不愿放下来
+1. 这本小说引人入胜,我一翻开就不愿放下来\
+zhèběn xiǎoshuō yǐnrénrùshèng,wǒ yī fānkāi jiù bù yuàn fàng xiàlái
 
     - 引人入胜
     - 不愿
