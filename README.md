@@ -91,7 +91,14 @@ nàgè bāobāo kànqǐlái hǎo guì
 1, 我已经吃饱了，谢谢\
 wǒ yǐjīng chībǎo le，xièxiè
 
-### 保守
+### 保守 bǎoshǒu
+
+1. 在那比较保守的时代,即使是青年,也多是循规蹈矩的
+
+2. 你总认为我思想保守,其实你不了解我,我不是顽固不化的人
+
+3.
+
 ### 比较 bǐjiào
 
 The adverb 比较 can be used to express quite;ratherl relatively.
@@ -772,6 +779,8 @@ wǒ kàn le nǐ tuījiàn de dònghuà
 - 有时我们在一起闲聊\
 yǒu shí wǒmen zài yī qǐ xián liáo
 有时我们在一起闲聊过 past tense
+
+### 羡慕
 ### 项目 - xiàngmù
 
 1. 在本周末，还不能完成这个项目，我心里七上八下的\
