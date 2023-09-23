@@ -704,7 +704,12 @@ wǒmen bǐcǐ hěn shúxī
 
 2. 我对基督教不熟悉
 
-3. 我初来乍到，不熟悉这里的情况
+3. 我初来乍到，不熟悉这里的情况\
+wǒ chūláizhàdào，bù shúxī zhèlǐ de qíngkuàng
+
+    - 初来乍到 chūláizhàdào - to be a newcomer; just of the boat
+
+    - 情况 qíngkuàng - circumstances; state of affairs; situation
 
 ### 顺便 shùnbiàn
 
