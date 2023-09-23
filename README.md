@@ -91,6 +91,7 @@ nàgè bāobāo kànqǐlái hǎo guì
 1, 我已经吃饱了，谢谢\
 wǒ yǐjīng chībǎo le，xièxiè
 
+### 保守
 ### 比较 bǐjiào
 
 The adverb 比较 can be used to express quite;ratherl relatively.
