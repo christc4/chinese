@@ -695,6 +695,7 @@ shòu dào nǐ de yāoqǐng，wǒ gǎndào shòu chǒng ruò jīng。
 
 2. 要想成功，你首先应该有一个好身体。
 
+### 熟悉
 ### 顺便 shùnbiàn
 
 1. 你去买早饭的时候顺便帮我带杯咖啡吧
