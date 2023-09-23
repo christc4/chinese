@@ -780,7 +780,8 @@ wǒ kàn le nǐ tuījiàn de dònghuà
 yǒu shí wǒmen zài yī qǐ xián liáo
 有时我们在一起闲聊过 past tense
 
-### 羡慕
+### 羡慕 xiànmù - envy; admire (positive)
+
 ### 项目 - xiàngmù
 
 1. 在本周末，还不能完成这个项目，我心里七上八下的\
