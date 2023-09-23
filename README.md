@@ -695,7 +695,7 @@ shòu dào nǐ de yāoqǐng，wǒ gǎndào shòu chǒng ruò jīng。
 
 2. 要想成功，你首先应该有一个好身体。
 
-### 熟悉
+### 熟悉 shúxī
 
 
 ### 顺便 shùnbiàn
