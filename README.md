@@ -703,6 +703,9 @@ wǒmen bǐcǐ hěn shúxī
     - 彼此 bǐcǐ - each other; one another
 
 2. 我对基督教不熟悉
+
+3. 我初来乍到，不熟悉这里的情况
+
 ### 顺便 shùnbiàn
 
 1. 你去买早饭的时候顺便帮我带杯咖啡吧
