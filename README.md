@@ -294,6 +294,13 @@ shì zhōng xīn shì zhè ge chéngshì zuì fánhuá de dìdài
 3. 繁华的北京城，高楼林立\
 fánhuá de Běijīng chéng, gāo lóu lín lì
 
+### 翻开
+
+1. 这本小说引人入胜,我一翻开就不愿放下来
+
+    - 引人入胜
+    - 不愿
+    - 放下
 ### 反正 fǎn zhèng
 
 1. 我反正有空, 就你的时间吧\
