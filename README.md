@@ -822,7 +822,10 @@ cǎo yuán xiàng sì zhōu shēn zhǎn, yī wàng wú jì
 - 他感到的是从未有过的充实、忙碌、快活、有趣\
 tā gǎn dào de shì cóng wèi yǒu guò de chōng shí, máng lù, kuài huó, yǒu qù
 
-## 缘故
+## 缘故 yuángù - reason; cause
+
+1. 不知什么缘故，小红今天的情绪很不好。
+
 ## 运动 yùn dòng
 
 跑步是我最喜欢的运动\
