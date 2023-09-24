@@ -828,6 +828,7 @@ tā gǎn dào de shì cóng wèi yǒu guò de chōng shí, máng lù, kuài huó
 bùzhī shénme yuángù，xiǎo hóng jīntiān de qíngxù hěn bùhǎo
 
 2. 但因为黑袍的缘故她学得很慢\
+dàn yīnwèi hēipáo de yuángù tā xué dé hěn màn
 
 ## 运动 yùn dòng
 
