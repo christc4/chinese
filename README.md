@@ -439,6 +439,7 @@ jiànkāng shì xìngfú shēnghuó zhī běn
 1. 医生的建议是什么\
 yīshēng de jiànyì shì shénme
 
+### 借给
 ### 接受 jiē shòu
 
 1. 我们的老师从来不接受同学们的礼物\
