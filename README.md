@@ -824,8 +824,10 @@ tā gǎn dào de shì cóng wèi yǒu guò de chōng shí, máng lù, kuài huó
 
 ## 缘故 yuángù - reason; cause
 
-1. 不知什么缘故，小红今天的情绪很不好
+1. 不知什么缘故，小红今天的情绪很不好\
 bùzhī shénme yuángù，xiǎo hóng jīntiān de qíngxù hěn bùhǎo
+
+2. 但因为黑袍的缘故她学得很慢\
 
 ## 运动 yùn dòng
 
