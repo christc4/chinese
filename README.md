@@ -444,7 +444,8 @@ yīshēng de jiànyì shì shénme
 1. 然后下学借给她，有裤子她应该能学的更快\
 ránhòu xià xué jiègěi tā，yǒu kùzi tā yīnggāi néng xué de gèng kuài
 
-2. 爸爸最近借给朋友一笔钱，手头上有点儿拮据。
+2. 爸爸最近借给朋友一笔钱，手头上有点儿拮据\
+bàbà zuìjìn jiègěi péngyǒu yībǐ qián，shǒutóushàng yǒudiǎnér jiéjù
 
 ### 接受 jiē shòu
 
