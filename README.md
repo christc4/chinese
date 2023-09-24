@@ -448,7 +448,7 @@ ránhòu xià xué jiègěi tā，yǒu kùzi tā yīnggāi néng xué de gèng k
 bàbà zuìjìn jiègěi péngyǒu yībǐ qián，shǒutóushàng yǒudiǎnér jiéjù
 
 ### 接受 jiē shòu
-
+jiēshòu
 1. 我们的老师从来不接受同学们的礼物\
 wǒmen de lǎoshī cóng lái bù jiē shòu tóngxuémen de lǐwù.
 
