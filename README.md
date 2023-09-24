@@ -441,7 +441,11 @@ yīshēng de jiànyì shì shénme
 
 ### 借给 jiègěi - to lend to sb
 
-1. 然后下学借给她，有裤子她应该能学的更快
+1. 然后下学借给她，有裤子她应该能学的更快\
+ránhòu xià xué jiègěi tā，yǒu kùzi tā yīnggāi néng xué de gèng kuài
+
+2. 爸爸最近借给朋友一笔钱，手头上有点儿拮据。
+
 ### 接受 jiē shòu
 
 1. 我们的老师从来不接受同学们的礼物\
