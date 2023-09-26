@@ -181,6 +181,11 @@ Three uses: only; just now; not until, emphasis
 
 ### 参加 cānjiā - participate
 
+1. 你要参加会议吗?
+
+2. 我会参加。
+
+
 ### 差 - chà
 
 1. 我的中文听力很差\
