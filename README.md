@@ -142,7 +142,7 @@ dà xiàng yǒu cháng bí zi
 1. 你必须吃药\
 nǐ bìxū chīyào
 
-### 变化 biànhuà - change intransitive verb
+### 变化 biànhuà - change intransitive verb (noun changes)
 
 1. 价格根据需求变化
 jiàgé gēnjù xūqiú biànhuà
@@ -150,6 +150,9 @@ jiàgé gēnjù xūqiú biànhuà
     - 根据 gēnjù - according to; based on; basis; foundation
     - 需求 xūqiú - demand (economics)
 
+1. 十年没见他，他的变化很大
+
+2. 最近 的 天气 没有 变化 ， 还是 很 冷 。
 ### 表示 biǎoshì
 
 1. 感谢您的支持，我要表示诚挚的感谢\
