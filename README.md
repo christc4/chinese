@@ -178,6 +178,8 @@ Three uses: only; just now; not until, emphasis
 
 1. 我才有两个
 2. 他才来过一次
+
+### 参加
 ### 差 - chà
 
 1. 我的中文听力很差\
