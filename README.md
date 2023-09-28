@@ -505,6 +505,9 @@ zhè cān tīng shén me shí hòu kāi mén
 
 ### 夸奖 kuājiǎng - compliment
 
+1. 因为他成绩好，所以老师常常夸奖他
+
+
 ## L
 
 ### 理解
