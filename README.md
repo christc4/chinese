@@ -503,6 +503,7 @@ wǒmen yīng gāi xū xīn jiē shòu biérén shàn yì de pī píng
 这餐厅什么时候开门\
 zhè cān tīng shén me shí hòu kāi mén
 
+### 夸奖
 ## L
 
 ### 理解
