@@ -504,6 +504,7 @@ wǒmen yīng gāi xū xīn jiē shòu biérén shàn yì de pī píng
 zhè cān tīng shén me shí hòu kāi mén
 
 ### 夸奖 kuājiǎng - compliment
+
 ## L
 
 ### 理解
