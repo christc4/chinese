@@ -1107,3 +1107,8 @@ A: The bank? There is one you go ahead for five hundred meters.
 Yǐ: Xièxie. Shùnbiàn wèn yíxià, yínháng yìbān jǐ diǎn guānmén?
 乙：谢谢。顺便问一下，银行一般几点关门？
 B: Thank you. Buy the way, when does the bank close generally
+
+
+成瘾者可能只向朋友暴露其状况的冰山一角，但不会透露自己的强迫程度
+
+4 你吸*成瘾，屡劝不改，如再不悬崖勒马，那就十分危险了。
