@@ -892,8 +892,9 @@ wǒ zhǎo dào wǒ de shēng huó le
 1. 我只买了一件衣服\
 wǒ zhǐ mǎi le yījiàn yīfú
 
-### 终于 zhōngyú
+### 终于 zhōngyú - at last; in the end; finally; eventually
 
+1. 终于明白啦？
 ### 准备好了 zhǔn bèi hǎo le - to be ready
 
 ## 总 - zǒng
