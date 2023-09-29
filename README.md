@@ -821,6 +821,8 @@ wǒ de zuòyè zǎo jiù wánchéngle
 2. 任务完成\
 rènwù wánchéng
     - 任务 rènwu - mission; assignment; task; duty; role
+
+3. 盡快把它完成
 ## X
 
 ### 闲聊 xian2liao2
