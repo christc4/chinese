@@ -823,6 +823,9 @@ rènwù wánchéng
     - 任务 rènwu - mission; assignment; task; duty; role
 
 3. 盡快把它完成
+jǐn kuài bǎ tā wánchéng
+
+
 ## X
 
 ### 闲聊 xian2liao2
