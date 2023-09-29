@@ -825,6 +825,23 @@ rènwù wánchéng
 3. 盡快把它完成
 jǐn kuài bǎ tā wánchéng
 
+## 无尽 wújǐn
+
+1. 宇宙无穷无尽\
+yǔzhòu wúqióng wújìn
+
+2. 知识是无穷无尽的，你永远学不完\
+zhīshì shì wúqióng wújìn de, nǐ yǒngyuǎn xué bù wán
+    - 知识 zhīshí - knowledge
+    - 无穷无尽 wúqióngwújǐn - endless; boundless; infinite
+
+3. 这种无尽无休的争论,是不利于安定团结的\
+zhè zhǒng wújìn wúxiū de zhēnglùn, shì bù lìyú āndìng tuánjié de
+
+    - 争论 zhēnglùn - debate; argue; contend; controversy
+    - 利于 lìyú - to be beneficial; to be good for
+    - 安定 āndìng - stable; calm; settled; stabilise
+    - 团结 tuánjié - unite; solidarity
 
 ## X
 
