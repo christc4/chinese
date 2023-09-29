@@ -818,7 +818,9 @@ wǒ kàn le nǐ tuījiàn de dònghuà
 1.  我的作业早就完成了\
 wǒ de zuòyè zǎo jiù wánchéngle
 
-2. 任务完成
+1. 任务完成
+
+    - 任务 rènwu - mission; assignment; task; duty; role
 ## X
 
 ### 闲聊 xian2liao2
