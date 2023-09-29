@@ -814,6 +814,8 @@ wǒ kàn le nǐ tuījiàn de dònghuà
 ## W
 
 ### 完成 wánchéng - to complete; to accomplish
+
+1.  我的作业早就完成了
 ## X
 
 ### 闲聊 xian2liao2
