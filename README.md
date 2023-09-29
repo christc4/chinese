@@ -813,7 +813,7 @@ wǒ kàn le nǐ tuījiàn de dònghuà
 
 ## W
 
-### 完成
+### 完成 wánchéng
 ## X
 
 ### 闲聊 xian2liao2
