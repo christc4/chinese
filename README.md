@@ -126,7 +126,10 @@ Wǒ bǐjiào tǎoyàn nánrén shuō zānghuà
 
 1. 你比较喜欢用Gmail还是Hotmail
 
-### 毕竟
+### 毕竟 bìjìng
+
+1. 采用重罚虽然可以立竿见影，但毕竟只是治标的办法\
+
 ### 比赛 bǐsài match
 
 1. 你赢了比赛了吗？\
