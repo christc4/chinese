@@ -132,7 +132,8 @@ Wǒ bǐjiào tǎoyàn nánrén shuō zānghuà
 cǎiyòng zhòngfá suīrán kěyǐ lìgānjiànyǐng，dàn bìjìng zhǐshì zhìbiāo de/di? bànfǎ
 
     - 采用 cǎiyòng - to adopt; to employ; to use
-
+    - 重罚 zhòngfá - to punish severely
+https://zaojv.com/4051815.html
 ### 比赛 bǐsài match
 
 1. 你赢了比赛了吗？\
