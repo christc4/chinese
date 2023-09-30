@@ -131,6 +131,7 @@ Wǒ bǐjiào tǎoyàn nánrén shuō zānghuà
 1. 采用重罚虽然可以立竿见影，但毕竟只是治标的办法\
 cǎiyòng zhòngfá suīrán kěyǐ lìgānjiànyǐng，dàn bìjìng zhǐshì zhìbiāo de/di? bànfǎ
 
+    - 采用 cǎiyòng - to adopt; to employ; to use
 
 ### 比赛 bǐsài match
 
