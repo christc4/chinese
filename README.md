@@ -589,6 +589,12 @@ xiànzài, Zhōngguó rén pǔ biàn fù yù qǐ lái le
 ## Q
 
 ### 起床
+
+你几点起床？
+
+天刚蒙蒙亮,他就起床干活去了
+as soon as it became dawn, he got up and went to work
+- 刚 - exactly
 ### 七上八下 - qīshàngbāxià
 
 1. 因为犯了错误,他心里七上八下的\
