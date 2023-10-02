@@ -588,6 +588,7 @@ xiànzài, Zhōngguó rén pǔ biàn fù yù qǐ lái le
 
 ## Q
 
+### 起床
 ### 七上八下 - qīshàngbāxià
 
 1. 因为犯了错误,他心里七上八下的\
