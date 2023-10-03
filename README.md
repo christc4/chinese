@@ -641,12 +641,16 @@ rì běn rén dǎ zhōngguó de shí hòu, zhōngguó lǎo bǎi xìng xīn lǐ z
 
 ### 期望 qīwàng
 
-1. 你对你的孩子期望过高
+1. 你对你的孩子期望过高\
 nǐ duì nǐ de háizi qīwàng guò gāo
 
     - 过高 guògāo - too high
 
-2. 我没有期望得到这样的结果
+2. 我没有期望得到这样的结果\
+wǒ méiyǒu qīwàng dédào zhèyàng de jiéguǒ
+
+    - 结果 jiéguǒ - outcome
+
 ### 前天 qiántiān - day before yesterday
 
 1. 他前天到北京的\
