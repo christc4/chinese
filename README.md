@@ -764,7 +764,7 @@ shòu dào nǐ de yāoqǐng，wǒ gǎndào shòu chǒng ruò jīng。
 
 2. 要想成功，你首先应该有一个好身体。
 
-### 熟悉 shúxī
+### 熟悉 shúxī - familiar
 
 1. 我们彼此很熟悉\
 wǒmen bǐcǐ hěn shúxī
