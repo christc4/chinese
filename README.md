@@ -532,7 +532,7 @@ zhègè cí bù àn běnyì qù lǐjiě
 
     - 按 àn - according to
     - 本义 běnyì - literal sense; original meaning
-    - 理解 lǐjiě - understand; [comprehend](comprehend)
+    - 理解 lǐjiě - understand; comprehend
 
 ### 恋人 liànrén
 
