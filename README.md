@@ -520,7 +520,7 @@ yīnwèi tā chéngjī hǎo，suǒyǐ lǎoshī chángcháng kuājiǎng tā
 
 ### 离婚 líhūn - divorce
 
-1. 离婚后,他每晚都到酒吧去借酒浇愁
+1. 离婚后,他每晚都到酒吧去借酒浇愁\
 líhūn hòu,tā měiwǎn dōu dào jiǔba qù jièjiǔjiāochóu
 
     - 借酒浇愁 jièjiǔjiāochóu - drown one's sorrow with booze
