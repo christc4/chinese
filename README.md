@@ -534,7 +534,7 @@ zhègè cí bù àn běnyì qù lǐjiě
     - 本义 běnyì - literal sense; original meaning
     - 理解 lǐjiě - understand; comprehend
 
-### 恋人 liànrén
+### 恋人 liànrén - lover; sweetheart
 
 1. 这对形影不离的恋人显然对各自父母的劝阻满不在乎
 
