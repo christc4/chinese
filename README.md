@@ -644,6 +644,7 @@ rì běn rén dǎ zhōngguó de shí hòu, zhōngguó lǎo bǎi xìng xīn lǐ z
 1. 你对你的孩子期望过高
 nǐ duì nǐ de háizi qīwàng guò gāo
 
+    - 过高 guògāo - too high
 ### 前天 qiántiān - day before yesterday
 
 1. 他前天到北京的\
