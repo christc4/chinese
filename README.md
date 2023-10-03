@@ -314,7 +314,8 @@ wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 ## F
 
 ### 发生 fāshēng
-昨天发生了一件有趣的事。
+
+1. 昨天发生了一件有趣的事\
 zuótiān fāshēngle yī jiàn yǒuqù de shì
 
 ### 繁华 fánhuá
