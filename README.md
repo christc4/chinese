@@ -645,6 +645,8 @@ rì běn rén dǎ zhōngguó de shí hòu, zhōngguó lǎo bǎi xìng xīn lǐ z
 nǐ duì nǐ de háizi qīwàng guò gāo
 
     - 过高 guògāo - too high
+
+2. 我没有期望得到这样的结果
 ### 前天 qiántiān - day before yesterday
 
 1. 他前天到北京的\
