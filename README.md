@@ -540,7 +540,7 @@ zhègè cí bù àn běnyì qù lǐjiě
 
 2. 这是一对难解难分的恋人
 
-### 联系 lián xì
+### 联系 lián xì - connection; contact
 
 1. 共同的目标把大家紧密地联系在一起\
 gòng tóng de mù biāo bǎ dà jiā jǐn mì de lián xì zài yī qǐ
