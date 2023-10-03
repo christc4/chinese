@@ -639,7 +639,9 @@ rì běn rén dǎ zhōngguó de shí hòu, zhōngguó lǎo bǎi xìng xīn lǐ z
 
 有一次，我的数学考试考的不是很好，回到家里心里总是七上八下怕妈妈打我。
 
+### 期望 qīwàng
 
+1. 你对你的孩子期望过高
 
 ### 前天 qiántiān - day before yesterday
 
