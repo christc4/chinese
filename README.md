@@ -847,7 +847,7 @@ Dāng wǒ wú jiā kě guī de shíhòu, wǒ cháng zài nà zhāng cháng yǐ s
 
     - 长椅 cháng yǐ - bench
 
-## 无尽 wújǐn
+## 无尽 wújǐn - endless; inexhaustible
 
 1. 宇宙无穷无尽\
 yǔzhòu wúqióng wújìn
