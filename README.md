@@ -840,6 +840,13 @@ rènwù wánchéng
 3. 盡快把它完成
 jǐn kuài bǎ tā wánchéng
 
+### 无家可归 Wú jiā kě guī - homeless
+
+1. 当我无家可归的时候，我常在那张长椅上睡觉
+Dāng wǒ wú jiā kě guī de shíhòu, wǒ cháng zài nà zhāng cháng yǐ shàng shuìjiào
+
+    - 长椅 cháng yǐ - bench
+
 ## 无尽 wújǐn
 
 1. 宇宙无穷无尽\
