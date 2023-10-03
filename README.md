@@ -525,7 +525,7 @@ líhūn hòu,tā měiwǎn dōu dào jiǔba qù jièjiǔjiāochóu
 
     - 借酒浇愁 jièjiǔjiāochóu - drown one's sorrow with booze
 
-### 理解 lǐjiě
+### 理解 lǐjiě - comprehend; understand
 
 1. 这个词不按本义去理解\
 zhègè cí bù àn běnyì qù lǐjiě
