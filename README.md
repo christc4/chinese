@@ -852,6 +852,7 @@ Dāng wǒ wú jiā kě guī de shíhòu, wǒ cháng zài nà zhāng cháng yǐ s
 1. 宇宙无穷无尽\
 yǔzhòu wúqióng wújìn
 
+    - 无穷无尽 wúqióng wújìn - endless; boundless; infinite
 2. 知识是无穷无尽的，你永远学不完\
 zhīshì shì wúqióng wújìn de, nǐ yǒngyuǎn xué bù wán
     - 知识 zhīshí - knowledge
