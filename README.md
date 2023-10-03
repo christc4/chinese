@@ -518,7 +518,14 @@ yīnwèi tā chéngjī hǎo，suǒyǐ lǎoshī chángcháng kuājiǎng tā
 
 ## L
 
-### 理解
+### 离婚 líhūn - divorce
+
+1. 离婚后,他每晚都到酒吧去借酒浇愁
+líhūn hòu,tā měiwǎn dōu dào jiǔba qù jièjiǔjiāochóu
+
+    - 借酒浇愁 jièjiǔjiāochóu - drown one's sorrow with booze
+
+### 理解 lǐjiě
 
 1. 这个词不按本义去理解\
 zhègè cí bù àn běnyì qù lǐjiě
