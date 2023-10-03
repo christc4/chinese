@@ -297,9 +297,23 @@ wǒ méi chī zǎofàn, xiànzài yǒu diǎn è le.
 2. 我一天没吃饭了，现在很饿\
 wǒ yī tiān méi chī fàn le, xiànzài hěn è.
 
+### 恶梦 èmèng
+
+1. 孩子，当你从恶梦中惊醒。眼前只有黑暗，以为自己被抛起在无尽的恐惧和孤独里时，请不要忘记，每个城市你所能到达的地方，总有一处灯火通明
+
+    - 眼前 yǎnqián - before one's eyes; now; at present
+    - 黑暗 hēiàn - dark; darkly; darkness
+    - 抛 pāo - to throw; to toss; to fling; to cast; to abandon
+    - 无尽 wújǐn - endless; inexhaustible
+    - 恐惧 kǒngjù - to be frightened; fear; dread
+    -
+    -
+
+2. 会做恶梦的人是世上最幸福的人，因为可以醒来，在那些岁月，我每每醒来却发现，我做了一个想从恶梦中醒来的美梦
+
 ## F
 
-### 发生fāshēng
+### 发生 fāshēng
 昨天发生了一件有趣的事。
 zuótiān fāshēngle yī jiàn yǒuqù de shì
 
