@@ -176,7 +176,9 @@ gǎnxiè nín de zhīchí, wǒ yào biǎoshì chéngzhì de gǎnxiè
 1. 我对我今天的表演不满意\
 wǒ duì wǒ jīntiān de biǎoyǎn bù mǎnyì
 
-### 并非
+### 并非 bìngfēi - really isn't
+
+1. 我一见到你就低下头不说话，并非我讨厌你，而是因为我在心里偷偷喜欢着你
 
 
 ### 不仅
