@@ -177,6 +177,10 @@ gǎnxiè nín de zhīchí, wǒ yào biǎoshì chéngzhì de gǎnxiè
 wǒ duì wǒ jīntiān de biǎoyǎn bù mǎnyì
 
 ### 不仅
+
+### 不可避免
+
+
 ## C
 
 ### 才 - cái
