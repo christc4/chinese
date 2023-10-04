@@ -176,6 +176,9 @@ gǎnxiè nín de zhīchí, wǒ yào biǎoshì chéngzhì de gǎnxiè
 1. 我对我今天的表演不满意\
 wǒ duì wǒ jīntiān de biǎoyǎn bù mǎnyì
 
+### 并非
+
+
 ### 不仅
 
 ### 不可避免 bùkěbìmiǎn - unavoidably
