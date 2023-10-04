@@ -178,8 +178,10 @@ wǒ duì wǒ jīntiān de biǎoyǎn bù mǎnyì
 
 ### 不仅
 
-### 不可避免
+### 不可避免 bùkěbìmiǎn - unavoidably
 
+1. 战争并非不可避免
+zhànzhēng bìngfēi bù kě bìmiǎn
 
 ## C
 
