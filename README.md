@@ -191,6 +191,7 @@ wǒ yī jiàndào nǐ jiù dīxiàtóu bù shuōhuà，bìngfēi wǒ tǎoyàn n�
 1. 战争并非不可避免
 zhànzhēng bìngfēi bù kě bìmiǎn
 
+    - 战争 zhànzhēng - war
 ## C
 
 ### 才 - cái
