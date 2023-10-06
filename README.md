@@ -184,6 +184,9 @@ wǒ yī jiàndào nǐ jiù dīxiàtóu bù shuōhuà，bìngfēi wǒ tǎoyàn n�
     - 低下 dīxià - lower one's head
     - 偷偷 tōutōu - stealthily
 
+1. 这并非是我的想要的
+2. 我希望事情並非如此
+
 ### 不仅
 
 ### 不可避免 bùkěbìmiǎn - unavoidably
