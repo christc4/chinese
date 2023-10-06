@@ -185,7 +185,8 @@ wǒ yī jiàndào nǐ jiù dīxiàtóu bù shuōhuà，bìngfēi wǒ tǎoyàn n�
     - 偷偷 tōutōu - stealthily
 
 1. 这并非是我的想要的
-2. 我希望事情並非如此
+
+3. 我希望事情並非如此
 
 ### 不仅
 
