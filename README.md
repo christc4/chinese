@@ -191,6 +191,8 @@ zhè bìngfēi shì wǒ de xiǎngyào de
 wǒ xīwàng shìqíng bìng fēi rúcǐ
 
     - 如此 rúcǐ - in this way
+
+你的状况并非毫无希望。
 ### 不仅
 
 ### 不可避免 bùkěbìmiǎn - unavoidably
