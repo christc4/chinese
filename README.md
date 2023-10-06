@@ -201,6 +201,7 @@ nǐ de zhuàngkuàng bìngfēi háowú xīwàng
 4. 只可惜那些美妙的词语并非出于我手. Unfortunately, these beautiful words are not mine
 ### 不仅
 
+5. 我看上去像是很有力气的人，可实际上并非如此
 ### 不可避免 bùkěbìmiǎn - unavoidably
 
 1. 战争并非不可避免
