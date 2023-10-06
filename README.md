@@ -193,9 +193,11 @@ wǒ xīwàng shìqíng bìng fēi rúcǐ
     - 如此 rúcǐ - in this way
 
 你的状况并非毫无希望
-nǐ de zhuàngkuàng bìngfēi háowúxīwàng
+nǐ de zhuàngkuàng bìngfēi háowú xīwàng
 
     - 状况 zhuàngkuàng - situation; state; condition
+    - 毫无 háowú - not in the least; to completely lack
+
 ### 不仅
 
 ### 不可避免 bùkěbìmiǎn - unavoidably
