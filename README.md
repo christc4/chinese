@@ -198,6 +198,7 @@ nǐ de zhuàngkuàng bìngfēi háowú xīwàng
     - 状况 zhuàngkuàng - situation; state; condition
     - 毫无 háowú - not in the least; to completely lack
 
+4. 只可惜那些美妙的词语并非出于我手. Unfortunately, these beautiful words are not mine
 ### 不仅
 
 ### 不可避免 bùkěbìmiǎn - unavoidably
