@@ -178,21 +178,21 @@ wǒ duì wǒ jīntiān de biǎoyǎn bù mǎnyì
 
 ### 并非 bìngfēi - really isn't
 
-1. 我一见到你就低下头不说话，并非我讨厌你，而是因为我在心里偷偷喜欢着你
+1. 我一见到你就低下头不说话，并非我讨厌你，而是因为我在心里偷偷喜欢着你\
 wǒ yī jiàndào nǐ jiù dīxiàtóu bù shuōhuà，bìngfēi wǒ tǎoyàn nǐ，érshì yīnwèi wǒ zài xīnlǐ tōutōu xǐhuān zhe nǐ
 
     - 低下 dīxià - lower one's head
     - 偷偷 tōutōu - stealthily
 
-1. 这并非是我的想要的
+1. 这并非是我的想要的\
 zhè bìngfēi shì wǒ de xiǎngyào de
 
-2. 我希望事情並非如此
+2. 我希望事情並非如此\
 wǒ xīwàng shìqíng bìng fēi rúcǐ
 
     - 如此 rúcǐ - in this way
 
-3. 你的状况并非毫无希望
+3. 你的状况并非毫无希望\
 nǐ de zhuàngkuàng bìngfēi háowú xīwàng
 
     - 状况 zhuàngkuàng - situation; state; condition
