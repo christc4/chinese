@@ -195,6 +195,7 @@ wǒ xīwàng shìqíng bìng fēi rúcǐ
 你的状况并非毫无希望
 nǐ de zhuàngkuàng bìngfēi háowúxīwàng
 
+    - 状况 zhuàngkuàng - situation; state; condition
 ### 不仅
 
 ### 不可避免 bùkěbìmiǎn - unavoidably
