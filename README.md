@@ -192,7 +192,9 @@ wǒ xīwàng shìqíng bìng fēi rúcǐ
 
     - 如此 rúcǐ - in this way
 
-你的状况并非毫无希望。
+你的状况并非毫无希望
+nǐ de zhuàngkuàng bìngfēi háowúxīwàng
+
 ### 不仅
 
 ### 不可避免 bùkěbìmiǎn - unavoidably
