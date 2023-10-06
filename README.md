@@ -190,7 +190,7 @@ zhè bìngfēi shì wǒ de xiǎngyào de
 2. 我希望事情並非如此
 wǒ xīwàng shìqíng bìng fēi rúcǐ
 
-    - 如此 rúcǐ
+    - 如此 rúcǐ - in this way
 ### 不仅
 
 ### 不可避免 bùkěbìmiǎn - unavoidably
