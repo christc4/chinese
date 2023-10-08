@@ -1028,6 +1028,7 @@ tā méi yǒu zú gòu de qián
 nǐ yǒu zúgòu de shíwù ma？
 
 6. 你有足够到睡眠吗？
+nǐ yǒu zúgòu dào shuìmián ma？
 
 7. 我们有足够的食物吗？
 
