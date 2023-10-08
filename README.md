@@ -1025,6 +1025,7 @@ zúgòu yītiān de le
 tā méi yǒu zú gòu de qián
 
 3. 你有足够的食物吗？
+nǐ yǒu zúgòu de shíwù ma？
 
 6. 你有足够到睡眠吗？
 
