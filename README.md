@@ -1003,8 +1003,9 @@ wǒ zhǐ mǎi le yījiàn yīfú
 1. 终于明白啦？
 ### 准备好了 zhǔn bèi hǎo le - to be ready
 
-### 自从
+### 自从/自從 zìcóng - since (a time); ever since
 
+自从我认识她的时候，我就恨她。
 ### 总 - zǒng
 
 - Used with 不 and 没, carries tone of speculation, judgement or suggestion. Often ends with 吧
