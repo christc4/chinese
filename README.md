@@ -169,6 +169,8 @@ jiàgé gēnjù xūqiú biànhuà
 
 ### 变为 biànwèi - to change into
 
+等到灯变为绿色。
+不想变为成人哟。
 ### 表达 biǎodá - express
 你能用英语表达自己吗
 
