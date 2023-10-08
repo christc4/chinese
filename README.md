@@ -176,10 +176,10 @@ gǎnxiè nín de zhīchí, wǒ yào biǎoshì chéngzhì de gǎnxiè
 1. 我对我今天的表演不满意\
 wǒ duì wǒ jīntiān de biǎoyǎn bù mǎnyì
 
-### 标准 - biāozhǔn
+### 标准 - biāozhǔn - (an official) standard; norm; criterion
 
-
-你必须得学标准英语
+1. 你必须得学标准英语
+nǐ bìxū děi xué biāozhǔn yīngyǔ
 
 ### 并非 bìngfēi - really isn't
 
