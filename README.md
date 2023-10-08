@@ -1016,6 +1016,28 @@ nǐmen zhī jiān de liánxì zhème shǎo, kàn qǐlái zǒng bù xiàng shì y
 2. 这么晚了，总不会出了什么事吧？\
 zhème wǎn le, zǒng bù huì chū le shénme shì ba?
 
+### 足够
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## USEFUL WEBSITES ~
 连着好几天都没有他的消息，我心里七上八下，坐卧不宁。
 10、有一次，我做错了事，我的心里七上八下的。
