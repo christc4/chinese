@@ -440,6 +440,7 @@ zài kùn nán miàn qián, nǐ shì xuǎn zé jiān chí, háishì xuǎn zé f�
 ### 分明 fēnmíng - clear; distinct; evidently; clearly
 
 1. 这分明是我
+
 ### 富足 fùzú plentiful; abundant; rich
 
 1. 过富足的生活
