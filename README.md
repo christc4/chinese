@@ -1016,7 +1016,18 @@ nǐmen zhī jiān de liánxì zhème shǎo, kàn qǐlái zǒng bù xiàng shì y
 2. 这么晚了，总不会出了什么事吧？\
 zhème wǎn le, zǒng bù huì chū le shénme shì ba?
 
-### 足够
+### 足够 zúgòu - enough; sufficient
+
+1. 足够一天的了
+
+2. 他沒有足夠的錢。
+
+3. 你有足够的食物吗？
+
+4. 你有足够到睡眠吗？
+
+5. 我们有足够的食物吗？
+
 
 
 
