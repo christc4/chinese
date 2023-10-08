@@ -167,7 +167,8 @@ jiàgé gēnjù xūqiú biànhuà
 
 1. 现在 的 政策 不 确定 ， 每天 都 有 新 变化。
 
-### 变为
+### 变为 biànwèi - to change into
+
 ### 表达 biǎodá - express
 你能用英语表达自己吗
 
