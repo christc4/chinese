@@ -983,7 +983,9 @@ rújīn shíjiān jiùshì jīnqián,rúguǒ nǐ juédé zhègè xiàngmù zhíd
 
 ### 休息 xiūxī
 
-1. 今天咖啡店不营业，休息一天。
+1. 今天咖啡店不营业，休息一天\
+jīntiān kāfēidiàn bù yíngyè，xiūxī yītiān
+
 ### 型号
 ## Y
 
