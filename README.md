@@ -981,7 +981,7 @@ rújīn shíjiān jiùshì jīnqián,rúguǒ nǐ juédé zhègè xiàngmù zhíd
 
 保持餐厅和洗手间干净卫生。正确处理垃圾，保持办公台干燥、干净\
 
-### 休息
+### 休息 xiūxī
 ### 型号
 ## Y
 
