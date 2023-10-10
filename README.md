@@ -1208,10 +1208,15 @@ Zài jīngshén shàng bāngzhù biérén de zuì hǎo fāngshì shì shénme?
 
 
 
-### Z
+## Z
 
-### 展示
-## 长大 zhǎngdà grow up
+### 展示 zhǎnshì - to reveal; to display; to show; to exhibit sth
+
+1. 我给她展示了我的房间
+
+2. 可以在地图上展示给我看吗？
+
+### 长大 zhǎngdà grow up
 
 1. 他在澳大利亚长大\
 tā zài Àodàlìyà zhǎngdà
