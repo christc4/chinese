@@ -492,6 +492,10 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
     - 互相 - hù xiāng
     - 应该的 - ought to
 
+### 火车站
+
+1. 火车站附近有很多东西吃。
+
 ## I
 
 ## J
