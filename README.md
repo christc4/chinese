@@ -418,7 +418,7 @@ bùguǎn tā qùbùqù，fǎnzhèng wǒ yào qù
 
 4. 反正也赢不了
 
-### 放进 fàngjìn
+### 放进 fàngjìn put into
 
 记得把牛奶放进冰箱
 
