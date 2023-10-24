@@ -583,6 +583,7 @@ wǒmen yīng gāi xū xīn jiē shòu biérén shàn yì de pī píng
 zhè cān tīng shén me shí hòu kāi mén
 
 ### 口渴 kǒukě - thirsty
+
 ### 夸奖 kuājiǎng - compliment
 
 1. 因为他成绩好，所以老师常常夸奖他
