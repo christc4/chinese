@@ -954,9 +954,10 @@ rènwù wánchéng
 3. 盡快把它完成
 jǐn kuài bǎ tā wánchéng
 
-### 往事
+### 往事 wǎngshì - the past
 
-我不想再谈往事了。
+1. 我不想再谈往事了。
+
 ### 无家可归 Wú jiā kě guī - homeless
 
 1. 当我无家可归的时候，我常在那张长椅上睡觉
