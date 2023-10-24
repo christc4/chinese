@@ -490,7 +490,7 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 
 ### 技能 jìnéng - skill
 
-在年轻时，你应该优先学习技能
+1. 在年轻时，你应该优先学习技能
 
 ### 假如 jiǎ rú
 
