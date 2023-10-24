@@ -488,7 +488,7 @@ dà jiā hù xiāng bāng zhù shì yīng gāi de
 
 ## J
 
-### 技能
+### 技能 jìnéng - skill
 
 ### 假如 jiǎ rú
 
