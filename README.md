@@ -448,6 +448,10 @@ zài kùn nán miàn qián, nǐ shì xuǎn zé jiān chí, háishì xuǎn zé f�
 
 1. 这分明是我
 
+### 负责
+
+1. 你应该对自己负责
+
 ### 富足 fùzú plentiful; abundant; rich
 
 1. 过富足的生活
