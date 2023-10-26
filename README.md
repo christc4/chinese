@@ -764,6 +764,7 @@ jiǎrú jīntiān shì xīngqíwǔ, qiántiān jiùshì xīngqísān
 3. 我前天收到了你的信\
 wǒ qiántiān shōudào le nǐ de xìn
 
+### 情况
 ### 倾盆大雨 qīng pén dà yǔ
 
 1. 天空突然下起了倾盆大雨\
