@@ -469,6 +469,9 @@ zài kùn nán miàn qián, nǐ shì xuǎn zé jiān chí, háishì xuǎn zé f�
 ### 感激不尽 gǎn jī bù jìn
 
 ### 刚刚 gānggāng
+
+1. 我哥刚刚也看过我了
+
 ### 公斤 gōngjīn - kg
 
 1. 我随身可以带几公斤行李\
