@@ -319,6 +319,10 @@ dāng wǒ chī tài duō de shíhou, dùzi jiù huì bù shūfu
 1. 他很想得到这个工作\
 tā hěn xiǎng dédào zhègè gōngzuò。
 
+### 读
+
+1. 我读高中的时候认识了他
+
 ### 锻炼 - duàn liàn
 
 1. 锻炼对身体带来很多好处\
