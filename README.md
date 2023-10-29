@@ -319,7 +319,7 @@ dāng wǒ chī tài duō de shíhou, dùzi jiù huì bù shūfu
 1. 他很想得到这个工作\
 tā hěn xiǎng dédào zhègè gōngzuò。
 
-### 读
+### 读 dú
 
 1. 我读高中的时候认识了他
 
