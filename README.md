@@ -100,6 +100,10 @@ wǒ yǐjīng chībǎo le，xièxiè
 
 3.
 
+### 本义
+
+1. 这个词不能按本义去理解
+
 ### 比较 bǐjiào
 
 The adverb 比较 can be used to express quite;ratherl relatively.
