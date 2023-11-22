@@ -26,6 +26,7 @@ tā tài ǎi le, kàn bù dào wéi qiáng wàimiàn
 
 2. 我想过安静的生活\
 wǒ xiǎng guò ān jìng de shēng huó
+
 ### 安慰 - ān wèi
 
 1. 他想安慰她,却没想到反而使他更伤心\
