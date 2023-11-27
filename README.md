@@ -4,8 +4,6 @@
 
 ### 爱
 
-我爱你
-
 ### 矮 ǎi
 1. 矮人们是伟大的铁匠\
 ǎi rénmen shì wěidà de tiějiàng
@@ -1377,5 +1375,7 @@ B: Thank you. Buy the way, when does the bank close generally
 
 
 成瘾者可能只向朋友暴露其状况的冰山一角，但不会透露自己的强迫程度
+
+
 
 4 你吸*成瘾，屡劝不改，如再不悬崖勒马，那就十分危险了。
