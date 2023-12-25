@@ -7,4 +7,6 @@ One could take the rationalistic approach and argue these are harmful traits bec
 
 - 采取 cǎiqǔ - to adopt or carry out (measures, polices, course of action); to take
 - 理性 lǐxìng - reason; rationality; rational
+- 方式 fāngshì - way; manner; style; mode; pattern
+- 争辩 zhēngbiàn - dispute (争 - to argue or debate)
 Yǒurén kěnéng cǎiqǔ lǐxìng de fāngshì bìng zhēngbiàn shuō, zhèxiē shì yǒuhài de tèzhì, yīnwèi tāmen shānghài le shèhuì. Suīrán zhè dāngrán shì zhēn de, dàn lìng yīgè bèi hūshì de yuányīn shì yīnwèi tāmen jīběn shàng pòhuài le wǒmen yǔ shàngdì de guānxì
