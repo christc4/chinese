@@ -6,7 +6,7 @@
 
 ### 矮 ǎi
 
-<img src="./str/矮.gif" width="250" height="250"/>
+<img src="./str/矮.gif" width="150" height="150"/>
 
 1. 矮人们是伟大的铁匠\
 ǎi rénmen shì wěidà de tiějiàng
