@@ -5,7 +5,6 @@
 ### 爱
 
 ### 矮 ǎi
-![接](./str/矮.gif)
 
 <img src="./str/矮.gif" width="250" height="250"/>
 
