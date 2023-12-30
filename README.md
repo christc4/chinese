@@ -5,6 +5,7 @@
 ### 爱
 
 ### 矮 ǎi
+![接](./str/矮.gif)
 1. 矮人们是伟大的铁匠\
 ǎi rénmen shì wěidà de tiějiàng
 
