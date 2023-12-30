@@ -7,8 +7,8 @@
 1. 矮人们是伟大的铁匠\
 ǎi rénmen shì wěidà de tiějiàng
 
-    - 伟大 - huge, great, grand
-    - 铁匠 - blacksmith
+    1. 伟大 - huge, great, grand
+    2. 铁匠 - blacksmith
 
 2. 她太矮了，看不到围墙外面\
 tā tài ǎi le, kàn bù dào wéi qiáng wàimiàn
