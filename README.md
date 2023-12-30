@@ -161,7 +161,7 @@ Wǒ bǐjiào tǎoyàn nánrén shuō zānghuà
 
 ### 毕竟 bìjìng
 
-<img src="./str/毕.gif" width="50" height="50"/>
+<img src="./str/毕.gif" width="50" height="50"/> <img src="./str/竟.gif" width="50" height="50"/>
 
 1. 毕竟，我应认真相信些什么？\In the end, what must I really believe in?
 2. 为什么要准时抵达，毕竟大家都迟到。What's the point of showing up on time if everyone else shows up late?
