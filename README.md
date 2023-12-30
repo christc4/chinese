@@ -175,7 +175,7 @@ https://zaojv.com/4051815.html
 
 ### 比赛 bǐsài match
 
-<img src="./str/.gif" width="50" height="50"/>
+<img src="./str/比.gif" width="50" height="50"/>
 
 1. 你赢了比赛了吗？\
 nǐ yíng le bǐsài le ma？
