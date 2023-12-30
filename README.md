@@ -179,6 +179,8 @@ nǐ yíng le bǐsài le ma？
 
 ### 鼻子 bízi nose
 
+<img src="./str/.gif" width="50" height="50"/>
+
 1. 大象有长鼻子\
 dà xiàng yǒu cháng bí zi
 
