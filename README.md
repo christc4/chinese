@@ -1,5 +1,3 @@
-# Vocabulary
-
 ## A
 
 ### 矮 ǎi
