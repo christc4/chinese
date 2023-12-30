@@ -2,8 +2,6 @@
 
 ## A
 
-### 爱
-
 ### 矮 ǎi
 
 <img src="./str/矮.gif" width="150" height="150"/>
