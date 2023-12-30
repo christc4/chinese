@@ -117,7 +117,7 @@ wǒ yǐjīng chībǎo le，xièxiè
 
 ### 保守 bǎoshǒu
 
-<img src="./str/.gif" width="50" height="50"/>
+<img src="./str/保.gif" width="50" height="50"/> <img src="./str/守.gif" width="50" height="50"/>
 
 1. 在那比较保守的时代,即使是青年,也多是循规蹈矩的
 
