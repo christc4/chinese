@@ -109,7 +109,7 @@ nàgè bāobāo kànqǐlái hǎo guì
 
 ### 饱 bǎo full
 
-<img src="./str/.gif" width="50" height="50"/>
+<img src="./str/饱.gif" width="50" height="50"/>
 
 
 1, 我已经吃饱了，谢谢\
