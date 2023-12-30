@@ -127,7 +127,7 @@ wǒ yǐjīng chībǎo le，xièxiè
 
 ### 本义
 
-<img src="./str/.gif" width="50" height="50"/>
+<img src="./str/本.gif" width="50" height="50"/> <img src="./str/义.gif" width="50" height="50"/>
 
 1. 这个词不能按本义去理解
 
