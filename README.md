@@ -49,8 +49,7 @@ Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
 
 ### 安装 ān zhuāng - install; mount
 
-<img src="./str/安.gif" width="50" height="50"/>
-<img src="./str/装.gif" width="50" height="50"/>
+<img src="./str/安.gif" width="50" height="50"/> <img src="./str/装.gif" width="50" height="50"/>
 
 1. 请按装linux
 
