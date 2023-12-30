@@ -161,9 +161,12 @@ Wǒ bǐjiào tǎoyàn nánrén shuō zānghuà
 
 ### 毕竟 bìjìng
 
-<img src="./str/.gif" width="50" height="50"/>
+<img src="毕./str/.gif" width="50" height="50"/>
 
-1. 采用重罚虽然可以立竿见影，但毕竟只是治标的办法\
+1. 毕竟，我应认真相信些什么？\In the end, what must I really believe in?
+2. 为什么要准时抵达，毕竟大家都迟到。What's the point of showing up on time if everyone else shows up late?
+3.
+4. 采用重罚虽然可以立竿见影，但毕竟只是治标的办法\
 cǎiyòng zhòngfá suīrán kěyǐ lìgānjiànyǐng，dàn bìjìng zhǐshì zhìbiāo de/di? bànfǎ
 
     - 采用 cǎiyòng - to adopt; to employ; to use
