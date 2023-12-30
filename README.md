@@ -100,7 +100,7 @@ míng tiān rú guǒ nǐ yǒu kōng de huà kě yǐ guò lái bāng máng
 
 ### 包 bāo (many meanings)
 
-<img src="./str/.gif" width="50" height="50"/>
+<img src="./str/包.gif" width="50" height="50"/>
 
 1. 那个包包看起来好贵\
 nàgè bāobāo kànqǐlái hǎo guì
