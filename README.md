@@ -63,6 +63,8 @@ tāmen zài bàngōngshì ānzhuāngle yī tái zìdòng fànmàijī
 
 ### 班 bān (team, class, squad, work shift, ranking)
 
+<img src="./str/班.gif" width="50" height="50"/>
+
 1. 今晚谁上班
 
     - 上班 shàngbān - go to work
