@@ -49,6 +49,8 @@ Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
 
 ### 安装 ān zhuāng - install; mount
 
+<img src="./str/装.gif" width="50" height="50"/>
+
 1. 请按装linux
 
 2. 他们在办公室安装了一台自动贩卖机\
