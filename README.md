@@ -93,10 +93,14 @@ nǐ jǐshí xiàbān？
 
 ### 帮忙 bāng máng
 
+<img src="./str/.gif" width="50" height="50"/>
+
 明天如果你有空的话可以过来帮忙\
 míng tiān rú guǒ nǐ yǒu kōng de huà kě yǐ guò lái bāng máng
 
 ### 包 bāo (many meanings)
+
+<img src="./str/.gif" width="50" height="50"/>
 
 1. 那个包包看起来好贵\
 nàgè bāobāo kànqǐlái hǎo guì
@@ -105,10 +109,15 @@ nàgè bāobāo kànqǐlái hǎo guì
 
 ### 饱 bǎo full
 
+<img src="./str/.gif" width="50" height="50"/>
+
+
 1, 我已经吃饱了，谢谢\
 wǒ yǐjīng chībǎo le，xièxiè
 
 ### 保守 bǎoshǒu
+
+<img src="./str/.gif" width="50" height="50"/>
 
 1. 在那比较保守的时代,即使是青年,也多是循规蹈矩的
 
@@ -118,9 +127,13 @@ wǒ yǐjīng chībǎo le，xièxiè
 
 ### 本义
 
+<img src="./str/.gif" width="50" height="50"/>
+
 1. 这个词不能按本义去理解
 
 ### 比较 bǐjiào
+
+<img src="./str/.gif" width="50" height="50"/>
 
 The adverb 比较 can be used to express quite;ratherl relatively.
 
@@ -148,13 +161,18 @@ Wǒ bǐjiào tǎoyàn nánrén shuō zānghuà
 
 ### 毕竟 bìjìng
 
+<img src="./str/.gif" width="50" height="50"/>
+
 1. 采用重罚虽然可以立竿见影，但毕竟只是治标的办法\
 cǎiyòng zhòngfá suīrán kěyǐ lìgānjiànyǐng，dàn bìjìng zhǐshì zhìbiāo de/di? bànfǎ
 
     - 采用 cǎiyòng - to adopt; to employ; to use
     - 重罚 zhòngfá - to punish severely
 https://zaojv.com/4051815.html
+
 ### 比赛 bǐsài match
+
+<img src="./str/.gif" width="50" height="50"/>
 
 1. 你赢了比赛了吗？\
 nǐ yíng le bǐsài le ma？
