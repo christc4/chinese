@@ -81,7 +81,7 @@ nǐ jǐshí xiàbān？
 
 ### 搬 bān (move, relocate, move (sth heavy/bulky) shift)
 
-<img src="./str/.gif" width="50" height="50"/>
+<img src="./str/搬.gif" width="50" height="50"/>
 
 1. 他搬了家
 
