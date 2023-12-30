@@ -133,7 +133,7 @@ wǒ yǐjīng chībǎo le，xièxiè
 
 ### 比较 bǐjiào
 
-<img src="./str/.gif" width="50" height="50"/>
+<img src="./str/比.gif" width="50" height="50"/>
 
 The adverb 比较 can be used to express quite;ratherl relatively.
 
