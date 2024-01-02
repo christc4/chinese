@@ -1,17 +1,5 @@
 ## A
 
-### 矮 ǎi
-
-<img src="./str/矮.gif" width="50" height="50"/>
-
-1. 矮人们是伟大的铁匠\ ǎi rénmen shì wěidà de tiějiàng
-
-    1. 伟大 - huge, great, grand
-    2. 铁匠 - blacksmith
-    3.
-2. 她太矮了，看不到围墙外面\
-tā tài ǎi le, kàn bù dào wéi qiáng wàimiàn
-
 ### 安静 ānjìng
 
 <img src="./str/安.gif" width="50" height="50"/> <img src="./str/静.gif" width="50" height="50"/>
