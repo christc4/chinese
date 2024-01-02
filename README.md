@@ -1301,7 +1301,7 @@ Zài jīngshén shàng bāngzhù biérén de zuì hǎo fāngshì shì shénme?
 2. 可以在地图上展示给我看吗？
 
 
-## 宅女/男 zhái nǚ otaku
+## 宅女男 zhái nǚ otaku
 
 
 
