@@ -1,9 +1,3 @@
-## A
-
-### 安静 ānjìng
-
-<img src="./str/安.gif" width="50" height="50"/> <img src="./str/静.gif" width="50" height="50"/>
-
 1. 保持安静bǎochí ānjìng\
 
 
