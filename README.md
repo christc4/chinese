@@ -15,22 +15,10 @@ wǒ xiǎng guò ān jìng de shēng huó
 ## B
 
 
-### 搬 bān (move, relocate, move (sth heavy/bulky) shift)
-
-
-1. 他搬了家
-
-2. 我是昨天搬来的
-
-3. 我下个月要搬家了
-
-4. 他搬到了我家附近
-
 ### 帮忙 bāng máng
 
-<img src="./str/帮.gif" width="50" height="50"/> <img src="./str/忙.gif" width="50" height="50"/>
 
-明天如果你有空的话可以过来帮忙\
+1. 明天如果你有空的话可以过来帮忙\
 míng tiān rú guǒ nǐ yǒu kōng de huà kě yǐ guò lái bāng máng
 
 ### 包 bāo (many meanings)
