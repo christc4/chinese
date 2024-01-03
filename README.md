@@ -15,14 +15,9 @@ wǒ xiǎng guò ān jìng de shēng huó
 ## B
 
 
-### 帮忙 bāng máng
 
-1. 明天如果你有空的话可以过来帮忙
-míng tiān rú guǒ nǐ yǒu kōng de huà kě yǐ guò lái bāng máng
+### 包 bāo
 
-### 包 bāo (many meanings)
-
-<img src="./str/包.gif" width="50" height="50"/>
 
 1. 那个包包看起来好贵\
 nàgè bāobāo kànqǐlái hǎo guì
