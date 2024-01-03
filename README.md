@@ -849,10 +849,6 @@ jīntiān kāfēidiàn bù yíngyè，xiūxī yītiān
 我每次都会问你意见
 
 
-## 一望无际 yī wàng wú jì
-
-- 草原向四周伸展，一望无际\
-cǎo yuán xiàng sì zhōu shēn zhǎn, yī wàng wú jì
 
 ## 有趣
 
