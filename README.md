@@ -1,16 +1,3 @@
-1. 保持安静bǎochí ānjìng\
-
-
-
-这餐厅很安静
-让我安静地工作。
-
-我只想一个人安安静静地生活，别无奢求
-
-2. 我想过安静的生活\
-wǒ xiǎng guò ān jìng de shēng huó
-
-
 ### 变化 biànhuà - change intransitive verb (noun changes)
 
 1. 价格根据需求变化
