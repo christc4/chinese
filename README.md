@@ -11,29 +11,6 @@
 wǒ xiǎng guò ān jìng de shēng huó
 
 
-
-
-
-
-### 比赛 bǐsài match
-
-1. 你赢了比赛了吗？\
-nǐ yíng le bǐsài le ma？
-
-### 鼻子 bízi nose
-
-<img src="./str/.gif" width="50" height="50"/>
-
-1. 大象有长鼻子\
-dà xiàng yǒu cháng bí zi
-
-    - 长 cháng long
-
-### 必须 bìxū
-
-1. 你必须吃药\
-nǐ bìxū chīyào
-
 ### 变化 biànhuà - change intransitive verb (noun changes)
 
 1. 价格根据需求变化
