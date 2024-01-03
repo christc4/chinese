@@ -870,16 +870,11 @@ pǎo bù shì wǒ zuì xǐ huān de yùn dòng
 
 ## Z
 
-### 只 zhǐ
-
-1. 我只买了一件衣服\
-wǒ zhǐ mǎi le yījiàn yīfú
 
 ### 终于 zhōngyú - at last; in the end; finally; eventually
 
 1. 终于明白啦？
-### 准备好了 zhǔn bèi hǎo le - to be ready
-
+2.
 ### 自从/自從 zìcóng - since (a time); ever since
 
 自从我认识她的时候，我就恨她。
