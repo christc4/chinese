@@ -10,41 +10,11 @@
 2. 我想过安静的生活\
 wǒ xiǎng guò ān jìng de shēng huó
 
-### 安慰 - ān wèi
 
-
-1. 他想安慰她,却没想到反而使他更伤心\
-Tā xiǎng ān wèi tā, què méi xiǎng dào fǎn ér shǐ tā gèng shāng xīn
-
-    - 却 - què - but; yet
-    - 没想到 - méi xiǎng dào - didn't expect
-    - 反而 - fǎn ér - instead contrary
-    - 使 - shǐ - to make to cause
-    - 更 - gèng - more even more
-
-3. 这几天她心情不好，你要好好安慰她一下\demand (economics)
-Zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià
-
-4. 我妈妈很快就安慰了我\
- wǒ mā mā hěn kuài jiù ān wèi le wǒ
-
-### 安装 ān zhuāng - install; mount
-
-<img src="./str/安.gif" width="50" height="50"/> <img src="./str/装.gif" width="50" height="50"/>
-
-1. 请按装linux
-
-2. 他们在办公室安装了一台自动贩卖机\
-tāmen zài bàngōngshì ānzhuāngle yī tái zìdòng fànmàijī
-
-    - 自动 zìdòng  - automatic
-    - 贩卖及 fànmàijī - vending machine
 
 ## B
 
 ### 班 bān (team, class, squad, work shift, ranking)
-
-<img src="./str/班.gif" width="50" height="50"/>
 
 1. 今晚谁上班
 
