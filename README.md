@@ -14,21 +14,6 @@ wǒ xiǎng guò ān jìng de shēng huó
 
 ## B
 
-### 班 bān (team, class, squad, work shift, ranking)
-
-1. 今晚谁上班
-
-    - 上班 shàngbān - go to work
-
-你上班迟到了\
-nǐ shàngbān chídào le
-
-    - 迟到 chídào - late
-
-3. 你几时下班?\
-nǐ jǐshí xiàbān？
-
-    - 下班 xiàbān - finish work
 
 ### 搬 bān (move, relocate, move (sth heavy/bulky) shift)
 
