@@ -818,12 +818,6 @@ zhè zhǒng wújìn wúxiū de zhēnglùn, shì bù lìyú āndìng tuánjié de
 
 ## X
 
-### 闲聊 xian2liao2
-
-- 有时我们在一起闲聊\
-yǒu shí wǒmen zài yī qǐ xián liáo
-有时我们在一起闲聊过 past tense
-
 ### 羡慕 xiànmù - envy; admire (positive)
 
 ### 项目 - xiàngmù
