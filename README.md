@@ -16,25 +16,10 @@ wǒ xiǎng guò ān jìng de shēng huó
 
 
 
-### 包 bāo
 
-
-1. 那个包包看起来好贵\
-nàgè bāobāo kànqǐlái hǎo guì
-
-    - 包包 bāobāo bag; small purse
-
-### 饱 bǎo full
-
-<img src="./str/饱.gif" width="50" height="50"/>
-
-
-1, 我已经吃饱了，谢谢\
-wǒ yǐjīng chībǎo le，xièxiè
 
 ### 保守 bǎoshǒu
 
-<img src="./str/保.gif" width="50" height="50"/> <img src="./str/守.gif" width="50" height="50"/>
 
 1. 在那比较保守的时代,即使是青年,也多是循规蹈矩的
 
