@@ -17,8 +17,6 @@ wǒ xiǎng guò ān jìng de shēng huó
 
 ### 比赛 bǐsài match
 
-<img src="./str/比.gif" width="50" height="50"/>
-
 1. 你赢了比赛了吗？\
 nǐ yíng le bǐsài le ma？
 
