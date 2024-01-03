@@ -1,19 +1,3 @@
-### 变化 biànhuà - change intransitive verb (noun changes)
-
-1. 价格根据需求变化
-jiàgé gēnjù xūqiú biànhuà
-
-    - 根据 gēnjù - according to; based on; basis; foundation
-    - 需求 xūqiú - demand (economics)
-
-2. 十年没见他，他的变化很大
-
-3. 最近 的 天气 没有 变化 ， 还是 很 冷 。
-
-4, 和 十 年 前比 ，人们 的 观念 变化 很 大 。
-
-5. 现在 的 政策 不 确定 ， 每天 都 有 新 变化。
-
 ### 变为 biànwèi - to change into
 
 等到灯变为绿色。
