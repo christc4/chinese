@@ -17,7 +17,6 @@ wǒ xiǎng guò ān jìng de shēng huó
 
 ### 帮忙 bāng máng
 
-
 1. 明天如果你有空的话可以过来帮忙
 míng tiān rú guǒ nǐ yǒu kōng de huà kě yǐ guò lái bāng máng
 
