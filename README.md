@@ -25,8 +25,6 @@ wǒ xiǎng guò ān jìng de shēng huó
 
 2. 你总认为我思想保守,其实你不了解我,我不是顽固不化的人
 
-3.
-
 ### 本义
 
 <img src="./str/本.gif" width="50" height="50"/> <img src="./str/义.gif" width="50" height="50"/>
