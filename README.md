@@ -12,22 +12,8 @@ wǒ xiǎng guò ān jìng de shēng huó
 
 
 
-## B
-
-
-
-
-
-### 保守 bǎoshǒu
-
-
-1. 在那比较保守的时代,即使是青年,也多是循规蹈矩的
-
-2. 你总认为我思想保守,其实你不了解我,我不是顽固不化的人
 
 ### 本义
-
-<img src="./str/本.gif" width="50" height="50"/> <img src="./str/义.gif" width="50" height="50"/>
 
 1. 这个词不能按本义去理解
 
