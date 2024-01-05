@@ -39,19 +39,6 @@ Three uses: only; just now; not until, emphasis
 
 2. 我会参加。
 
-
-### 差 - chà
-
-1. 我的中文听力很差\
-wǒ de zhōngwén tīnglì hěn chà
-
-### 充满 chōngmǎn
-
-1. 生活每天都充满希望\
-shēng huó měi tiān dōu chōng mǎn xī wàng.
-
-    - 充满 - chōng mǎn - full of; brimming with
-
 ### 传统 chuán tǒng
 
 1. 伏特加，俄罗斯的传统酒精饮料\
