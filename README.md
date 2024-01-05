@@ -3,10 +3,6 @@
 等到灯变为绿色。
 不想变为成人哟。
 
-### 表示 biǎoshì
-
-1. 感谢您的支持，我要表示诚挚的感谢\
-gǎnxiè nín de zhīchí, wǒ yào biǎoshì chéngzhì de gǎnxiè
 
 ### 表演 biǎoyǎn
 
