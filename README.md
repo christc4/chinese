@@ -14,40 +14,9 @@ wǒ duì wǒ jīntiān de biǎoyǎn bù mǎnyì
 1. 你必须得学标准英语
 nǐ bìxū děi xué biāozhǔn yīngyǔ
 
-### 并非 bìngfēi - really isn't
-
-1. 我一见到你就低下头不说话，并非我讨厌你，而是因为我在心里偷偷喜欢着你\
-wǒ yī jiàndào nǐ jiù dīxiàtóu bù shuōhuà，bìngfēi wǒ tǎoyàn nǐ，érshì yīnwèi wǒ zài xīnlǐ tōutōu xǐhuān zhe nǐ
-
-    - 低下 dīxià - lower one's head
-    - 偷偷 tōutōu - stealthily
-
-1. 这并非是我的想要的\
-zhè bìngfēi shì wǒ de xiǎngyào de
-
-2. 我希望事情並非如此\
-wǒ xīwàng shìqíng bìng fēi rúcǐ
-
-    - 如此 rúcǐ - in this way
-
-3. 你的状况并非毫无希望\
-nǐ de zhuàngkuàng bìngfēi háowú xīwàng
-
-    - 状况 zhuàngkuàng - situation; state; condition
-    - 毫无 háowú - not in the least; to completely lack
-
-4. 只可惜那些美妙的词语并非出于我手. Unfortunately, these beautiful words are not mine
-
 ### 不仅
 
 5. 我看上去像是很有力气的人，可实际上并非如此
-
-### 不可避免 bùkěbìmiǎn - unavoidably
-
-1. 战争并非不可避免
-zhànzhēng bìngfēi bù kě bìmiǎn
-
-    - 战争 zhànzhēng - war
 
 ### 不少
 
